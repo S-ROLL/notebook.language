@@ -18,7 +18,7 @@ Continue 10 words.
 ```
 Make an example sentence of ... in english and illustrate its example by image.
 ```
-# Anki
+# Anki 
 - **FRONT**
   - ``Vocab``
 - **BACK**
