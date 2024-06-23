@@ -1,8 +1,9 @@
 # BASIC IELTS_29 - NOTEBOOK
 ## Grammar Contents
 - Writing
-  - Noun-phrases
+  - [Noun-phrases](https://github.com/S-ROLL/notebook.language/blob/9f21879e01875872b59e5c4ac7faffe2dba21134/BASIC%20IELTS_29/Writing/noun_phrases.md)
 - Speaking
+  - [Liking/Disliking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/Liking_Disliking.md)
 - Reading
 - Listening
 ## Vocab Week List
