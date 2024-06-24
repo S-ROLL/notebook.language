@@ -1,17 +1,13 @@
 # BASIC IELTS_29 - NOTEBOOK
 ## Grammar Contents
 - Writing
-  - [Noun-phrases](https://github.com/S-ROLL/notebook.language/blob/9f21879e01875872b59e5c4ac7faffe2dba21134/BASIC%20IELTS_29/Writing/noun_phrases.md)
+  - [Writing Rules](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/data/Speaking/README.md)
+  - [Noun-phrases](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/data/Writing/noun_phrases.md)
 - Speaking
-  - [Liking/Disliking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/Liking_Disliking.md)
+  - [Speaking Rules](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/data/Speaking/README.md)
+  - [Liking/Disliking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/data/Speaking/Liking_Disliking.md)
 - Reading
 - Listening
 ## Vocab Week List
-- [Education](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Vocab/Education.md)
-- [History](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Vocab/History.md)
-## Rules
-### Speaking
-- Pronunciation $\rightarrow$ 9
-- Fluency and Coherence $\rightarrow$ 9
-- Lexical Resources (vocab) $\rightarrow$ 9 $\rightarrow$ topic-related vocab + academic language
-- Grammatical Range + Accuracy $\rightarrow$ 9
+- [Education](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/data/Vocab/Education.md)
+- [History](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/data/Vocab/History.md)
