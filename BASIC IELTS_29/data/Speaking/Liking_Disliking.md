@@ -12,8 +12,7 @@
     - *Be* (not) an **avid + Noun-er** (reader, runner, traveler,...)
     - St *be* my **Noun** of choice
     - My favorite + Noun $\rightarrow$ My **go-to** + Noun
-- **Trick**:
-  - Hobbies $\rightarrow$ Present perfect.
+- **Trick**: Hobbies $\rightarrow$ Present perfect.
 - **WHAT DO / DONT YOU LIKE ABOUT YOUR HOMETOWN?** $\rightarrow$ PARTICULAR ASPECT.
   - There are quite a *number of (several)* things I (don't) really enjoy about ___, but (1)
     - (1): what I find most enjoyable is + N-Phrase (that SVO).
