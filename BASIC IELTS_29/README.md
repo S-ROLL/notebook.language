@@ -11,7 +11,7 @@
 - [History](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Vocab/History.md)
 ## Rules
 ### Speaking
-- Pronunciation → 9
-- Fluency and Coherence → 9
-- Lexical Resources (vocab) → 9
-- Grammatical Range + Accuracy → 9
+- Pronunciation $\rightarrow$ 9
+- Fluency and Coherence $\rightarrow$ 9
+- Lexical Resources (vocab) $\rightarrow$ 9 $\rightarrow$ topic-related vocab + academic
+- Grammatical Range + Accuracy $\rightarrow$ 9
