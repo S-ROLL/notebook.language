@@ -19,5 +19,5 @@
     - (1): what I find most enjoyable is + N-Phrase (that SVO).
     - (1): what really annoys me all the time is + N-Phrase (that SVO).
   - One particular thing I don't like about ___ is ___. It's something that's been bugging me a lot recently. I wish + S + V2ed (could/would).
-- **What dont you like about your study?**
+- **What dont you like about your study?** $\rightarrow$ PARTICULAR ASPECT
   - There are quite a number of things I dont really enjoy about my study, but what bugs me all the time is ___.
