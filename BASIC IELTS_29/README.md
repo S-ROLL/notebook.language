@@ -13,5 +13,5 @@
 ### Speaking
 - Pronunciation → 9
 - Fluency and Coherence → 9
-- Lexical Resources → 9
+- Lexical Resources (vocab) → 9
 - Grammatical Range + Accuracy → 9
