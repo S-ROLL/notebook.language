@@ -9,3 +9,9 @@
 ## Vocab Week List
 - [Education](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Vocab/Education.md)
 - [History](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Vocab/History.md)
+## Rules
+### Speaking
+- Pronunciation → 9
+- Fluency and Coherence → 9
+- Lexical Resources → 9
+- Grammatical Range + Accuracy → 9
