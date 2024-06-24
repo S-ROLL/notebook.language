@@ -1,0 +1,10 @@
+- preserve
+- allocate
+- ancestors
+- cultural backgrounds
+- historical value
+- patriotism
+- national heritage
+- inherit
+- trait
+- ancient artifact
