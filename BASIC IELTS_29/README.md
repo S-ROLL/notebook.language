@@ -7,3 +7,4 @@
 - [Vocabulary](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Vocab/README.md)
 ## Homework contents
 - [Writing](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Homeworks/Writing/README.md)
+- [Speaking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Homeworks/Speaking/README.md)
