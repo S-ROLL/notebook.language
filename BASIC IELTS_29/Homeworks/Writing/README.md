@@ -1,0 +1,2 @@
+# Homework List for Writing
+1. CLAUSE >< NOUN PHRASES -> [question](https://docs.google.com/document/d/1sRWTcHq9LRnLnzLJJFUg1jIeljRy_zCClPn2n7MHSiw/edit?fbclid=IwZXh0bgNhZW0CMTAAAR19ktFYflJIaQ_eCbIQ3eSdiiRKlqhvoHhpHStg8cBSY0FaQyyCDQif_YY_aem_Ivqhpe_YccpR4ldQxy3yyg) | [submit](https://drive.google.com/drive/folders/1FsEYnPz-B7ZkyCrj9aJFGhys8NikXQxC?fbclid=IwZXh0bgNhZW0CMTAAAR383kKVTTygF1ebtj8mo0AkxGrnFqCL4N6pmI1qJS3ZB4tdShqRzDhqIXc_aem_Gl5p3fHtebFKfcDtBgwejA).
