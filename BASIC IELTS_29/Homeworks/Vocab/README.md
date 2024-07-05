@@ -1,2 +1,3 @@
 # Homework List for Vocab
 1. Education, History -> [question](https://drive.google.com/drive/folders/1F6cyNHJSYPnYGDdCznqnte4JE6tABC8j) | [submit](https://drive.google.com/drive/folders/1ilRgbR38MuzW9ma_9EGJF5D2SDCQd8EK?fbclid=IwZXh0bgNhZW0CMTAAAR3OF6gg4OxyHK9PNUrVYMOIXL3gG0g7L4Dv2oiWOadK1wwQxJJ-3BU9XrY_aem_NTfq4eEMvaCp4SWUYkQtgQ)
+2. Work life, Tech in Edu -> [question](https://drive.google.com/drive/folders/1GgrVYoWp8rTf0LG2r0dEOtCAO7fs8hic?fbclid=IwZXh0bgNhZW0CMTAAAR1hSBiAeM2vitN8AB4tlJQPhk4pb83NrXL52rRRs2mUvmk8v5XnG4AKuXE_aem_6LvifzpfXqjr_38cg2j7gw) | [submit](https://drive.google.com/drive/folders/1LAvYfkMp8FBgoxjujJwehuEn5LzjA3jT?fbclid=IwZXh0bgNhZW0CMTAAAR1t4egI6SZUU2pxBUonU0RHTa4uZIgAGSuD_q6gwrgqTtcCpZtpBbNV5Pk_aem_CA6Qat4tuM9UxwWERwkZ-w)
