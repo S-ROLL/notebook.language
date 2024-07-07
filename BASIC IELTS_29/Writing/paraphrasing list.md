@@ -17,3 +17,8 @@
 | challenges | obstacles <br/> difficulties |
 | lack of money | financial constraint |
 | cheap | low-cost <br/> inexpensive <br/> affordable <br/> reasonably priced + N |
+| delicious | scrumptious <br/> mouth-watering |
+| everyday | on a day basis |
+| frequently (regularly) | on a frequent basis (on a regular basis) |
+| city people | urban citizens <br/> residents <br/> dwellers |
+| big city | major city <br/> metropolitan areas |
