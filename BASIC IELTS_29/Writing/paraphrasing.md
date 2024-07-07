@@ -11,3 +11,5 @@
     - N ➡️ Máy móc, công nghệ, thiết bị, dụng cụ, phát minh, ứng dụng, thiết kế tiên tiến, tối tân.
   - Contemporary + N
     - N ➡️ Suy nghĩa, điệu múa, âm nhạc, văn hoá, xã hội, lối sống, nền văn minh, con người.
+## Remember list
+[here](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/paraphrasing%20list.md)
