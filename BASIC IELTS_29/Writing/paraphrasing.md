@@ -1,6 +1,6 @@
 # PARAPHRASING
 ## [Synonyms](https://drive.google.com/file/d/19fpYMYGx4oHvwHEQSae993mCM-Fm_u6l/view?usp=share_link)
-> [LIST](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/paraphrasing%20list.md)
+> [LIST](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/synonyms%20list.md)
 - Condition:
   1. Part of speech
   2. Meaning
