@@ -1,6 +1,7 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| have the freedom to ``v`` | enjoy the freedom to ``v`` <br/> should be given the freedom to ``v``
 | cause | lead to <br/> result in |
 | find a good job | land a decent job <br/> land a high-flying job <br/> land a well-paid job |
 | celebrities | public figures <br/> famous + people / careers (singers, artists, authors,...) <br/> well-known + people / careers <br/> renowned + people / careers <br/> noted + people / careers <br/> celebrated + people / careers |
