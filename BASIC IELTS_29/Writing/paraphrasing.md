@@ -16,3 +16,7 @@
 2. Translate to Viet sentence obtained family words.
 3. Translate to Eng.
 ```
+### Practice
+- **Popularity**
+  - an increasing number of ``noun`` have a tendency to ``verb`` 📈
+  - during the past few years, ``noun`` has become increasingly popular
