@@ -12,11 +12,14 @@
 > [LIST](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/family%20words.md)
 
 ```
-1. Define word having family words.
-2. Translate to Viet sentence obtained family words.
-3. Translate to Eng.
+Step 1. Define word having family words.
+Step 2. Translate to Viet sentence obtained family words.
+Step 3. Translate to Eng.
 ```
 ### Practice
 | Topic | Sentence Structure |
 | ----------- | ----------- |
-| **Popularity 📈** | - An increasing number of ``noun`` have a tendency to ``verb``. <br/> - During the past few years, ``noun`` has become increasingly popular. |
+| **POPULARITY 📈** | - An increasing number of ``noun`` have a tendency to ``verb``. <br/> - During the past few years, ``noun`` has become increasingly popular. <br/> - Over the last decades, ``noun`` has gained increasing popularity. |
+| **2 VIEWS 👀** | - A school of thought holds that ``   ``. <br/> - Some opine that ``   ``. <br/> - Some are of the opinion that ``   ``. <br/> - Some hold a firm belief that ``   ``. |
+
+> Modal verb (should, could,...) ➡️ passive voice
