@@ -1,6 +1,7 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| buy | purchase |
 | dangerous | extreme <br/> hazardous <br/> risky |
 | have the freedom to ``v`` | enjoy the freedom to ``v`` <br/> should be given the freedom to ``v`` <br/> should be allowed to ``v`` |
 | cause | lead to <br/> result in |
