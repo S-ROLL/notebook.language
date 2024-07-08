@@ -1,6 +1,7 @@
 # Family words
 | Noun | Verb | Adjective | Adverb |
 | ----------- | ----------- | ----------- | ----------- |
+| density | | | densely |
 | tendency | tend | | |
 | | | good | well |
 | health | | healthy | |
