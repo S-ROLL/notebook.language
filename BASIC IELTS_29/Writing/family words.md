@@ -1,4 +1,4 @@
 # Family words
-| N | V | Adj | Adv |
+| Noun | Verb | Adjective | Adverb |
 | ----------- | ----------- | ----------- | ----------- |
 | relaxation | | relaxed <br/> relaxing | |
