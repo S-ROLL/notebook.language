@@ -1,6 +1,4 @@
-# Choice question
-[video](https://drive.google.com/file/d/1btbL8yz_d9_-jNwVFPiNAbeuxfIe4Rnj/view?usp=share_link)
-<br/>
+# [Choice question](https://drive.google.com/file/d/1btbL8yz_d9_-jNwVFPiNAbeuxfIe4Rnj/view?usp=share_link)
 [sample answers](https://docs.google.com/document/d/1qPjgK4IGrnUKlj18ifQgesLyKt04CBxufSm9_b8URcI/edit)
 ## `` Do you like (prefer) A or B ? ``
 - **1 of the 2 options**
