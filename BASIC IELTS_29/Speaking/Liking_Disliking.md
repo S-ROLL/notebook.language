@@ -1,5 +1,4 @@
-# Liking / Disliking Questions
-[video](https://drive.google.com/file/d/1N9Xzz_0vv57bAUOoe0ppYM0m6gWH1GUr/view?usp=sharing)
+# [Liking / Disliking Questions](https://drive.google.com/file/d/1N9Xzz_0vv57bAUOoe0ppYM0m6gWH1GUr/view?usp=sharing)
 # Idea development
 - Like $\rightarrow$ yes $\rightarrow$ particular type $\rightarrow$ reason (topic-related vocab + cohenrence) $\rightarrow$ feeling / frequency.
 - Dislike $\rightarrow$ no $\rightarrow$ reason (related info / personality) $\rightarrow$ general feelings / alternative (another choice).
