@@ -11,3 +11,7 @@
     - N ➡️ Suy nghĩa, điệu múa, âm nhạc, văn hoá, xã hội, lối sống, nền văn minh, con người.
 ## [Part of speech](https://drive.google.com/file/d/1R0SGNaW0gKsVCbLt2dn8Qg8IcEC8FABM/view?usp=sharing)
 > [Family words](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/family%20words.md)
+### Use family words
+1. Define word having **family words**.
+2. Translate to **Viet** sentence obtained **family words**.
+3. Translate to **Eng**.
