@@ -1,6 +1,4 @@
-# NOUN-PHRASE
-[Video](https://drive.google.com/file/d/1hFla4O43XDYaepxJJdfvFVZpj-z-RuCP/view?usp=share_link)
-  
+# [NOUN-PHRASE](https://drive.google.com/file/d/1hFla4O43XDYaepxJJdfvFVZpj-z-RuCP/view?usp=share_link)
 ## Clause
 ``S + V + (O)``
 - Verb:
