@@ -8,7 +8,7 @@
 | online | virtual classes <br/> digital classes <br/> Internet-based classes |
 | like | enjoy <br/> prefer <br/> show great preference to |
 | today | these days <br/> in this day and age |
-| many | a large <br/> a great number of |
+| many | a large <br/> a great number of <br/> excessive + N |
 | solve | tackle <br/> address <br/> resolve <br/> deal with |
 | demerit | drawback <br/> disadvantage <br/> downside |
 | modern (technologies) | cutting-edge <br/> leading-edge <br/> state-of-the-art <br/> advanced |
