@@ -2,5 +2,5 @@
 | Noun | Verb | Adjective | Adverb |
 | ----------- | ----------- | ----------- | ----------- |
 | tiring | | tired | |
-| addiction / addict | | addicted / addictive | |
-| relaxation | | relaxed / relaxing | |
+| addiction - addict | | addicted - addictive | |
+| relaxation | | relaxed - relaxing | |
