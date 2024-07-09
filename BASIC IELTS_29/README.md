@@ -7,9 +7,7 @@
 - [Reading](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Reading/README.md)
 - [Listening](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Listening/README.md)
 - [Vocabulary](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Vocab/README.md)
-## Homework contents
-- [Writing](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Homeworks/Writing/README.md)
-- [Speaking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Homeworks/Speaking/README.md)
-- [Reading](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Homeworks/Reading/README.md)
-- [Listening](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Homeworks/Listening/README.md)
-- [Vocab HW](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Homeworks/Vocab/README.md)
+# Homework List for Vocab
+1. Education, History -> [question](https://drive.google.com/drive/folders/1F6cyNHJSYPnYGDdCznqnte4JE6tABC8j) | [result](https://drive.google.com/drive/folders/1Nt2RvagGUy9H0TisRk2Rn59x39hqmOiI?fbclid=IwZXh0bgNhZW0CMTAAAR3QjeHQ-XWaA1zAXeOFeXgAEKqW9JykMr8VPxDUVw631yfM6bQhRXMz9us_aem_pfzCrXE7bRxM6pVbckFT9w) | ☑️
+2. Work life, Tech in Edu -> [question](https://drive.google.com/drive/folders/1GgrVYoWp8rTf0LG2r0dEOtCAO7fs8hic?fbclid=IwZXh0bgNhZW0CMTAAAR1hSBiAeM2vitN8AB4tlJQPhk4pb83NrXL52rRRs2mUvmk8v5XnG4AKuXE_aem_6LvifzpfXqjr_38cg2j7gw) | [result](https://drive.google.com/drive/folders/10kg_kwjsEFYzOC4VhzG0wxZAzDIVNZs5?fbclid=IwZXh0bgNhZW0CMTAAAR0zkFvbBGI-VdcIhtRofM8q6BxI97rkQP6zAhecjJejKV1lDASKIcLW1po_aem_gv8AHzeg7nI55ANUIQSbDw)
+3. Personality traits, Transportation problems -> [question](https://drive.google.com/drive/folders/1QvpYkX7dTnptsrrkOeAXspgbaSa7ZpJU?fbclid=IwZXh0bgNhZW0CMTAAAR3QjeHQ-XWaA1zAXeOFeXgAEKqW9JykMr8VPxDUVw631yfM6bQhRXMz9us_aem_pfzCrXE7bRxM6pVbckFT9w) | [submit](https://drive.google.com/drive/folders/1QN_YhM5wTkMgLdbgFKpgPK1gErGDLblY?fbclid=IwZXh0bgNhZW0CMTAAAR0rj-PUjQF9d-g773B6-WNHbk91JDhmnTFZFL3h6ULpQEsE3Ghb0RJSCbw_aem_0w2m4e6S3aRlO-ybBZ9TGA)
