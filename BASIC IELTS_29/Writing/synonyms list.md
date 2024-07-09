@@ -1,6 +1,8 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| participate | join <br/> engage |
+| teenagers | adolescents |
 | produce | manufacture <br/> generate |
 | buy | purchase |
 | dangerous | extreme <br/> hazardous <br/> risky |
