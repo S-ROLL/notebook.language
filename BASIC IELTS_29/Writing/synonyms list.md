@@ -1,6 +1,7 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| produce | manufacture <br/> generate |
 | buy | purchase |
 | dangerous | extreme <br/> hazardous <br/> risky |
 | have the freedom to ``v`` | enjoy the freedom to ``v`` <br/> should be given the freedom to ``v`` <br/> should be allowed to ``v`` |
