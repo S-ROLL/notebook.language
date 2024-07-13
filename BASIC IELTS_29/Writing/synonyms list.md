@@ -1,6 +1,14 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| without | lack <br/> shortage |
+| construct | build <br/> erect <br/> establish |
+| measure | solution <br/> approach <br/> method <br/> strategy |
+| economic | financial |
+| happening soon | imminent |
+| society | communities |
+| thriving | prosperous <br/> devloped |
+| key element | foundation <br/> KEYSTONE |
 | views | opinions  <br/> viewpoint <br/> outlook <br/> perspective <br/> idea <br/> conception <br/> perception <br/> assumption <br/> belief <br/> ATTITUDE <br/> TONE <br/> notion = idea |
 | various | a broad range of <br/> a wide variety of | 
 | improved (+) | MORE fuel efficient (+) <br/> CHANGE IN A BETTER WAY |
