@@ -3,6 +3,8 @@
 [Video recording](https://drive.google.com/drive/folders/1Ifog1ABjAuNReJhqsdkK-1QSM0on2rRk?fbclid=IwZXh0bgNhZW0CMTAAAR2cRpM1pUTtLMlq4VKfmUcnunYnfzjaiySI4viJXng3cjTetXCKUArY4o0_aem_ZmFrZWR1bW15MTZieXRlcw)
 <br/>
 [Synonyms](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/synonyms%20list.md)
+<br/>
+[Part of Speech](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/family%20words.md)
 ## Theorical Contents
 - [Writing](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/README.md)
 - [Speaking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/README.md)
