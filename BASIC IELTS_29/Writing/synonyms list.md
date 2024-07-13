@@ -1,6 +1,17 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| views | opinions  <br/> viewpoint <br/> outlook <br/> perspective <br/> idea <br/> conception <br/> perception <br/> assumption <br/> belief <br/> ATTITUDE <br/> TONE <br/> notion = idea |
+| VARIOUS | a broad range of <br/> a wide variety of | 
+| improved (+) | MORE fuel efficient (+) <br/> CHANGE IN A BETTER WAY |
+| modified | redesigned (CONTEXTUALIZED) <br/> CHANGE |
+| modification | change <br/> adjustment <br/> alteration <br/> amendment |
+| modify | change <br/> adjust <br/> alter <br/> amend <br/> shift |
+| perfect | FLAWLESS <br/> IMPECCABLE |
+| factual | statements <br/> evidence <br/> proof <br/> testament <br/> figures <br/> statistics |
+| errors | inaccurate <br/> inaccuracies <br/> false <br/> mistake <br/> wrong <br/> fault <br/> incorrect <br/> FLAW = IMPERFECTION <br/> defect(ive) |
+| discovery | finding <br/> result <br/> outcome <br/> conclusion |
+| surprising | unexpected <br/> amazing <br/> unbelievable <br/> shocking <br/> unpredictable <br/> incredible <br/> astonishing <br/> astounding <br/> CRAZY |
 | participate | join <br/> engage |
 | teenagers | adolescents |
 | produce | manufacture <br/> generate |
