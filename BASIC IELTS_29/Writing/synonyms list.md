@@ -2,7 +2,7 @@
 | Main | Synonyms |
 | ----------- | ----------- |
 | views | opinions  <br/> viewpoint <br/> outlook <br/> perspective <br/> idea <br/> conception <br/> perception <br/> assumption <br/> belief <br/> ATTITUDE <br/> TONE <br/> notion = idea |
-| VARIOUS | a broad range of <br/> a wide variety of | 
+| various | a broad range of <br/> a wide variety of | 
 | improved (+) | MORE fuel efficient (+) <br/> CHANGE IN A BETTER WAY |
 | modified | redesigned (CONTEXTUALIZED) <br/> CHANGE |
 | modification | change <br/> adjustment <br/> alteration <br/> amendment |
