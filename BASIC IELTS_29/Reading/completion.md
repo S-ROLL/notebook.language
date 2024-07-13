@@ -2,7 +2,7 @@
 ## Rules
 1. Pick the exact words in the text.
 2. Word limit (NO MORE THAN ``  `` WORDS AND/OR A NUMBER).
-3. Part of speech (word form).
+3. Word form [(Part of Speech)](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/family%20words.md)
 4. Words with similar meanings [(synonyms)](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/synonyms%20list.md)
 ## No 🚫
 1. Vượt số lượng từ cho phép.
