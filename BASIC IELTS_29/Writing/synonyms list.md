@@ -3,7 +3,7 @@
 | ----------- | ----------- |
 | without | lack <br/> shortage |
 | construct | build <br/> erect <br/> establish |
-| measure | solution <br/> approach <br/> method <br/> strategy |
+| solution | measure <br/> approach <br/> method <br/> strategy |
 | economic | financial |
 | happening soon | imminent |
 | society | communities |
