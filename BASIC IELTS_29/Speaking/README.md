@@ -4,8 +4,8 @@
 - Lexical Resources (vocab) $\rightarrow$ 9 $\rightarrow$ topic-related vocab + academic language
 - Grammatical Range + Accuracy $\rightarrow$ 9
 ## Contents
-1. [Liking/Disliking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/Liking_Disliking.md)
-2. [Choice](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/CHOICE%20QUESTIONS.md)
+1. [Liking/Disliking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/Liking_Disliking.md) | ☑️
+2. [Choice](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/CHOICE%20QUESTIONS.md) | ☑️
 3. [Describe](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/describe.md)
 ## Homework List for Speaking
 1. Liking/Disliking -> [question](https://docs.google.com/document/d/1HHW2v5XKuEQLqqodME4ZsO8tdU7WcHHSv4sNajd2AMo/edit) | [submit](https://drive.google.com/drive/folders/1JnJnZMa7RJXK5A8_Ii7_C2byetTcYFxS) | ☑️
