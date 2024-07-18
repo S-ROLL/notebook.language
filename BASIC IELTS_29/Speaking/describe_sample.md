@@ -1,6 +1,6 @@
 # Describe Sample
 ## Describe a job that you do not like to do in the future 💼
-When I was a child, I harbored ``'hɑ:bə`` a dream of becoming a singer. Like many kids, I was thought about performing on stage and receiving ``rɪˈsiːvɪŋ`` applause ``əˈplɔːz``. However, as I grew older, my mindset changed ``tʃeɪndʒd``. It’s just dawned ``dɔːnd`` on me that being a singer isn't the right path for me.
+When I was a child, I harbored ``ˈhɑːrbərd`` a dream of becoming a singer. Like many kids, I was thought about performing on stage and receiving ``rɪˈsiːvɪŋ`` applause ``əˈplɔːz``. However, as I grew older, my mindset changed ``tʃeɪndʒd``. It’s just dawned ``dɔːnd`` on me that being a singer isn't the right path for me.
 
 Firstly, I realized ``ˈriːəlaɪzd`` that I'm not born to become a singer. I have no knack ``næk`` for singing and don't have the natural talent required ``rɪˈkwaɪərd`` to master in this field. Additionally, I don't have what it takes to become a successful singer. The dedication ``ˌdɛdɪˈkeɪʃən``, vocal skills, and stage presence ``ˈprɛzəns`` needed are beyond my capabilities ``ˌkeɪpəˈbɪlɪtiz``.
 
