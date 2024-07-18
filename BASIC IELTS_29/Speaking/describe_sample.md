@@ -9,7 +9,7 @@ Moreover, the job of a singer is too physically and mentally demanding for me. T
 In conclusion, while singing was a childhood dream, I have come to understand that it's not a suitable career choice for me.
 
 ## Describe an occasion when you heard someone complaining about something in a restaurant / store or other business places
-Last summer, I witnessed ``ˈwɪtnɪst`` a significant complaint while eating street food in Hanoi, specifically ``spi'sifikəli`` Bun Cha. It was around noon, in the heart ``hɑ:t`` of Hanoi’s Old Quarter ``'kwɔ:tə``, when a family sitting at the table next to mine showed dissatisfaction ``ˌdɪsˌsætɪsˈfækʃən`` with their meal.
+Last summer, I witnessed ``ˈwɪtnɪst`` a significant complaint while eating street food in Hanoi, specifically ``spi'sifikəli`` Bun Cha. It was around noon, in the heart ``hɑ:t`` of Hanoi’s Old Quarter ``'kwɔ:tə``, when a family sitting at the table next to mine showed dis**satisfaction** ``ˌdɪsˌsætɪsˈfækʃən`` with their meal.
 
 The mother made a complaint about the portions ``ˈpɔːrʃənz`` of grilled ``ɡrɪld`` pork being too small and the unsanitary ``ʌnˈsænɪˌtɛri`` dipping sauce. She insisted on getting a better meal and called the waiter over. You know, luckily, the waiter apologized ``əˈpɑːləˌdʒaɪzd`` to her that he would bring a fresh of sauce and more pork.
 
