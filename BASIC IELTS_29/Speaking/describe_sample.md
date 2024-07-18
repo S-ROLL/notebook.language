@@ -13,6 +13,6 @@ Last summer, I witnessed a significant complaint while eating street food in Han
 
 The mother made a complaint about the portions of grilled pork being too small and the unsanitary dipping sauce. She insisted on getting a better meal and called the waiter over. You know, luckily, the waiter apologized to her that he would bring a fresh of sauce and more pork.
 
-You know, the mother's initial reaction had clearly ticked her off. I could tell she got pissed off because nothing is more important than hygiene and quality when it comes to food. The waiter, however, remained calm and polite. He quickly addressed the issue, bringing a new serving that satisfied the family. The situation cooled down, and the family continued their meal without further issues.
+You know, the mother's initial reaction had clearly ticked her off. I could tell she got pissed off because nothing is more important than hygiene and quality when it comes to food. The waiter, however, remained calm and polite.
 
-This experience made me realize the importance of good customer service. It showed how handling complaints effectively can turn a negative situation into a positive one. Though I was initially uncomfortable with the intensity of the complaint, I admired the mother’s determination to get what she deserved and the waiter’s professionalism in resolving the issue.
+This experience made me realize the importance of good customer service. It showed how handling complaints effectively can turn a negative situation into a positive one. You know, I admired the mother’s determination to get what she deserved and the waiter’s professionalism in resolving the issue.
