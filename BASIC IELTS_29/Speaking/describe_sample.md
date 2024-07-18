@@ -6,4 +6,4 @@ Firstly, I realized ``ˈriːəlaɪzd`` that I'm not born to become a singer. I h
 
 Moreover, the job of a singer is too physically and mentally demanding for me. The long hours of practice and the pressure to maintain a public image are overwhelming ``ˌoʊvərˈwɛlmɪŋ``. The lack of privacy makes me feel particularly ``pərˈtɪkjʊlɚli`` challenging.
 
-In conclusion, while singing was a childhood dream, I have come to understand that it is not a suitable career choice for me due to my lack of natural talent, the demanding nature of the job, and the high level of stress involved.
+In conclusion, while singing was a childhood dream, I have come to understand that it's not a suitable career choice for me.
