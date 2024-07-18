@@ -1,5 +1,5 @@
 # [Describe](https://drive.google.com/file/d/1JvY8FqRC3vSwaM81RlUeLmHtnMH3TFh9/view?usp=sharing)
-[fixing clip](https://drive.google.com/file/d/1O1X5xzqqVfAq56QNQWSQpHa6cuTTVECV/view?usp=sharing)
+[fixing clip](https://drive.google.com/file/d/1O1X5xzqqVfAq56QNQWSQpHa6cuTTVECV/view?usp=sharing) <br/> [sample](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/describe_sample.md)
 ## Describe a job that you do not like to do in the future
 - child 👶 ➡️ childhood dream ➡️ harbor a dream of ``Ving`` ``   `` ➡️ ❓why❓
 - as I grow older 👨‍🦲 ➡️ change mindset ➡️ It's just dawned on me that ➡️ ❓reasons❓
