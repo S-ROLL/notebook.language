@@ -9,10 +9,10 @@ Moreover, the job of a singer is too physically and mentally demanding for me. T
 In conclusion, while singing was a childhood dream, I have come to understand that it's not a suitable career choice for me.
 
 ## Describe an occasion when you heard someone complaining about something in a restaurant / store or other business places
-Last summer, I witnessed a significant complaint while eating street food in Hanoi, specifically Bun Cha. It was around noon, in the heart of Hanoi’s Old Quarter, when a family sitting at the table next to mine showed dissatisfaction with their meal.
+Last summer, I witnessed ``ˈwɪtnɪst`` a significant complaint while eating street food in Hanoi, specifically ``spi'sifikəli`` Bun Cha. It was around noon, in the heart ``hɑ:t`` of Hanoi’s Old Quarter ``'kwɔ:tə``, when a family sitting at the table next to mine showed dissatisfaction ``ˌdɪsˌsætɪsˈfækʃən`` with their meal.
 
-The mother made a complaint about the portions of grilled pork being too small and the unsanitary dipping sauce. She insisted on getting a better meal and called the waiter over. You know, luckily, the waiter apologized to her that he would bring a fresh of sauce and more pork.
+The mother made a complaint about the portions ``ˈpɔːrʃənz`` of grilled ``ɡrɪld`` pork being too small and the unsanitary ``ʌnˈsænɪˌtɛri`` dipping sauce. She insisted on getting a better meal and called the waiter over. You know, luckily, the waiter apologized ``əˈpɑːləˌdʒaɪzd`` to her that he would bring a fresh of sauce and more pork.
 
-You know, the mother's initial reaction had clearly ticked her off. I could tell she got pissed off because nothing is more important than hygiene and quality when it comes to food. The waiter, however, remained calm and polite.
+You know, the mother's initial ``ɪˈnɪʃəl`` reaction had clearly ticked her off. I could tell she got pissed ``pɪst`` off because nothing is more important than hygiene ``ˈhaɪdʒiːn`` and quality when it comes to food. The waiter, however, remained calm and polite ``pəˈlaɪt``.
 
-This experience made me realize the importance of good customer service. It showed how handling complaints effectively can turn a negative situation into a positive one. You know, I admired the mother’s determination to get what she deserved and the waiter’s professionalism in resolving the issue.
+This experience made me realize ``ˈriːəlaɪz`` the importance of good customer service. It showed how handling ``ˈhændlɪŋ`` complaints effectively can turn a negative situation into a positive one. You know, I admired ``ədˈmaɪərd`` the mother’s determination ``dɪˌtɜːrmɪˈneɪʃən`` to get what she deserved ``dɪˈzɜːrvd`` and the waiter’s professionalism ``prəˈfɛʃənəlɪzəm`` in resolving `` ri'zɔlvɪŋ`` the problem.
