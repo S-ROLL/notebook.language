@@ -1,6 +1,7 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| apply | exert |
 | without | lack <br/> shortage |
 | construct | build <br/> erect <br/> establish |
 | solution | measure <br/> approach <br/> method <br/> strategy |
