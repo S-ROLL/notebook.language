@@ -1,17 +1,11 @@
-# BASIC IELTS_29 - NOTEBOOK
-## Source
-| [Theorical Docs File](https://docs.google.com/document/d/17So7kWvpgBwHX6KNqsak3BUh7zQ-TEJvavD_UNtj0Tg/edit?fbclid=IwZXh0bgNhZW0CMTAAAR2ECzHY8rnL90Muqh3YoYKd9WPhqA2WOMXLGE6bA67o3_D1W82diUp1jCg_aem_cB0fFEom7j5n9gyL77W4DQ) | [Video recording](https://drive.google.com/drive/folders/1Ifog1ABjAuNReJhqsdkK-1QSM0on2rRk?fbclid=IwZXh0bgNhZW0CMTAAAR2cRpM1pUTtLMlq4VKfmUcnunYnfzjaiySI4viJXng3cjTetXCKUArY4o0_aem_ZmFrZWR1bW15MTZieXRlcw) |
+# BASIC IELTS
+| CONTENT | LINK |
 | ----------- | ----------- |
-## Notebook
-| [WRITING](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/writing.ipynb) | [SPEAKING](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/speaking.ipynb) | [READING](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Reading/reading.ipynb) | [LISTENING](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Listening/listening.ipynb) |
-| ----------- | ----------- | ----------- | ----------- |
-## Others
-| Name | Description |
-| ----------- | ----------- |
-| [Synonyms](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/synonyms%20list.md) | Very important for all skills.|
-| [Word form](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/word%20form.md) | Very useful for reading.|
-## Homework List for Vocab
-| Exercises | Link | Submit | Study |
+| **SOURCE** | [DOCS](https://docs.google.com/document/d/17So7kWvpgBwHX6KNqsak3BUh7zQ-TEJvavD_UNtj0Tg/edit?fbclid=IwZXh0bgNhZW0CMTAAAR2ECzHY8rnL90Muqh3YoYKd9WPhqA2WOMXLGE6bA67o3_D1W82diUp1jCg_aem_cB0fFEom7j5n9gyL77W4DQ) <br/> [GG MEET](https://drive.google.com/drive/folders/1Ifog1ABjAuNReJhqsdkK-1QSM0on2rRk?fbclid=IwZXh0bgNhZW0CMTAAAR2cRpM1pUTtLMlq4VKfmUcnunYnfzjaiySI4viJXng3cjTetXCKUArY4o0_aem_ZmFrZWR1bW15MTZieXRlcw) |
+| **NOTEBOOK** | [WRITING](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/writing.ipynb) <br/> [SPEAKING](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/speaking.ipynb) <br/> [READING](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Reading/reading.ipynb) <br/> [LISTENING](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Listening/listening.ipynb) |
+| **OTHERS** | [SYNOMYMS](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/synonyms%20list.md) <br/> [WORD FORM](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/word%20form.md) |
+## VOCAB
+| TOPIC | LINK | SUBMIT | STUDY |
 | ----------- | ----------- | ----------- | ----------- |
 | Education <br/> History | [question](https://drive.google.com/drive/folders/1F6cyNHJSYPnYGDdCznqnte4JE6tABC8j) <br/> [result](https://drive.google.com/drive/folders/1Nt2RvagGUy9H0TisRk2Rn59x39hqmOiI?fbclid=IwZXh0bgNhZW0CMTAAAR3QjeHQ-XWaA1zAXeOFeXgAEKqW9JykMr8VPxDUVw631yfM6bQhRXMz9us_aem_pfzCrXE7bRxM6pVbckFT9w) | ☑️ | 🧠 |
 | Work life <br/> Tech in Edu | [question](https://drive.google.com/drive/folders/1GgrVYoWp8rTf0LG2r0dEOtCAO7fs8hic?fbclid=IwZXh0bgNhZW0CMTAAAR1hSBiAeM2vitN8AB4tlJQPhk4pb83NrXL52rRRs2mUvmk8v5XnG4AKuXE_aem_6LvifzpfXqjr_38cg2j7gw) <br/> [result](https://drive.google.com/drive/folders/10kg_kwjsEFYzOC4VhzG0wxZAzDIVNZs5?fbclid=IwZXh0bgNhZW0CMTAAAR0zkFvbBGI-VdcIhtRofM8q6BxI97rkQP6zAhecjJejKV1lDASKIcLW1po_aem_gv8AHzeg7nI55ANUIQSbDw) | | 🧠 |
