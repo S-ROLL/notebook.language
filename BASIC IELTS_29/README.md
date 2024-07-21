@@ -4,7 +4,7 @@
 <br/>
 [Synonyms](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/synonyms%20list.md)
 <br/>
-[Part of Speech](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/family%20words.md)
+[Word form](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/family%20words.md)
 ## Theorical Contents
 - [Writing](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/README.md)
 - [Speaking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/README.md)
