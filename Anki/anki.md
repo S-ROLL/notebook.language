@@ -1,5 +1,5 @@
 # BASIC IELTS_29
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.21.56.png>)
 **Innate Abilities**
 
 **Pronunciation**: /ɪˈneɪt əˈbɪlɪtiz/
@@ -25,7 +25,7 @@
    - *His instinctive abilities in sports made him a star athlete.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.22.14.png>)
 **Inherit Certain Behavioral Traits**
 
 **Pronunciation**: /ɪnˈhɛrɪt ˈsɜːrtən bɪˈheɪvjərəl treɪts/
@@ -51,7 +51,7 @@ If you need any adjustments or more information, feel free to ask!
    - *Hereditary behaviors like kindness and empathy were evident in all her siblings.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.22.26.png>)
 **Lower Their Self-Esteem**
 
 **Pronunciation**: /ˈloʊər ðɛr sɛlf ɪˈstiːm/
@@ -77,7 +77,7 @@ If you need any adjustments or more information, feel free to ask!
    - *Failing the exam shook her confidence in her academic abilities.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.22.43.png>)
 **Personality Traits of Young Children**
 
 **Pronunciation**: /pərˈsænəlɪti treɪts əv jʌŋ ˈtʃɪldrən/
@@ -106,7 +106,7 @@ If you need any adjustments or more information, feel free to ask!
    - *She showed empathy towards her friends when they were upset.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.24.02.png>)
 **Charismatic Leader**
 
 **Pronunciation**: /ˌkærɪzˈmætɪk ˈliːdər/
@@ -135,7 +135,7 @@ If you need any adjustments or more information, feel free to ask!
    - *As a persuasive communicator, he was able to rally support for the new initiative.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.24.12.png>)
 **Compatibility**
 
 **Pronunciation**: /kəmˌpætəˈbɪləti/
@@ -166,7 +166,7 @@ Here is an image for this example:
    - *Their mutual understanding contributes to their compatibility as business partners.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.24.24.png>)
 **Disciplined Members**
 
 **Pronunciation**: /ˈdɪsəplɪnd ˈmɛmbərz/
@@ -197,7 +197,7 @@ Here is an image for this example:
    - *The orderly group worked together seamlessly, completing the project ahead of schedule.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.24.37.png>)
 **Personal Attributes**
 
 **Pronunciation**: /ˈpɜːrsənəl ˈætrɪˌbjuːts/
@@ -226,7 +226,7 @@ If you need any adjustments or more information, feel free to ask!
    - *His individual strengths, such as problem-solving and creativity, are assets to the team.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.24.46.png>)
 **Further Developed**
 
 **Pronunciation**: /ˈfɜːrðər dɪˈvɛləpt/
@@ -257,7 +257,7 @@ Here is an image for this example:
    - *The research paper was expanded upon to include recent findings.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.26.15.png>)
 **Foster**
 
 **Pronunciation**: /ˈfɒstər/
@@ -288,7 +288,7 @@ Here is an image for this example:
    - *The campaign aims to promote environmental awareness.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.26.25.png>)
 **Appointed Supervisor**
 
 **Pronunciation**: /əˈpɔɪntɪd ˈsuːpərˌvaɪzər/
@@ -317,7 +317,7 @@ If you need any adjustments or more information, feel free to ask!
    - *As the appointed supervisor, he became an authority figure in the office.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.26.37.png>)
 **Proper Upbringing Tend**
 
 **Pronunciation**: /ˈprɒpər ˈʌpˌbrɪŋɪŋ tɛnd/
@@ -346,7 +346,7 @@ If you need any adjustments or more information, feel free to ask!
    - *The positive influence of his parents is clear in his behavior.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.26.46.png>)
 **Hiring Managers**
 
 **Pronunciation**: /ˈhaɪərɪŋ ˈmænɪdʒərz/
@@ -375,7 +375,7 @@ If you need any adjustments or more information, feel free to ask!
    - *After thorough evaluation, the hiring manager makes the hiring decision.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.26.52.png>)
 **Emphasis**
 
 **Pronunciation**: /ˈɛmfəsɪs/
@@ -404,7 +404,7 @@ If you need any adjustments or more information, feel free to ask!
    - *The discussion focused on improving safety measures.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.27.03.png>)
 **Dysfunctional Families**
 
 **Pronunciation**: /dɪsˈfʌŋkʃənl ˈfæməliz/
@@ -433,7 +433,7 @@ If you need any adjustments or more information, feel free to ask!
    - *The lack of support in a dysfunctional family can hinder personal growth and development.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.27.08.png>)
 **Adverse Impact**
 
 **Pronunciation**: /ˈædvɜːrs ˈɪmpækt/
@@ -462,7 +462,7 @@ If you need any adjustments or more information, feel free to ask!
    - *The construction project had an undesirable impact on the community.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.27.14.png>)
 **Proper**
 
 **Pronunciation**: /ˈprɒpər/
@@ -491,7 +491,7 @@ If you need any adjustments or more information, feel free to ask!
    - *Proper use of equipment can prevent accidents.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.27.21.png>)
 **Parental Care**
 
 **Pronunciation**: /pəˈrɛntəl kɛr/
@@ -520,7 +520,7 @@ If you need any adjustments or more information, feel free to ask!
    - *Growing up in a supportive family can have a positive impact on a child's self-esteem.*
 
 If you need any adjustments or more information, feel free to ask!
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.28.25.png>)
 **Excessive use of private cars**
 
 **IPA Pronunciation:** /ɪkˈsɛsɪv juːz ʌv ˈpraɪvət kɑːrz/
@@ -538,7 +538,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Carbon footprint:** The total amount of greenhouse gases produced by human activities, including the use of private cars.
 4. **Urban sprawl:** The uncontrolled expansion of urban areas, often leading to increased reliance on private vehicles.
 5. **Fuel consumption:** The amount of fuel used by vehicles, which increases with excessive car use.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.28.31.png>)
 **Alleviate traffic congestion**
 
 **IPA Pronunciation:** /əˈliːvieɪt ˈtræfɪk kənˈdʒɛstʃən/
@@ -556,7 +556,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Carpooling:** Sharing a ride with others to decrease the number of vehicles on the road.
 4. **Urban planning:** Designing cities to reduce traffic congestion through better infrastructure and public transport.
 5. **Traffic reduction measures:** Actions taken to reduce traffic, such as congestion pricing or improving cycling infrastructure.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.28.37.png>)
 **Contribute greatly to noise pollution**
 
 **IPA Pronunciation:** /kənˈtrɪbjuːt ˈɡreɪtli tuː nɔɪz pəˈluːʃən/
@@ -574,7 +574,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Acoustic pollution:** Another term for noise pollution, referring to unwanted or harmful sounds.
 4. **Noise ordinances:** Laws and regulations designed to control noise levels in certain areas.
 5. **Environmental noise:** Unwanted sound that affects the quality of life in residential and natural areas.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.28.44.png>)
 **Imposing heavier fines**
 
 **IPA Pronunciation:** /ɪmˈpoʊzɪŋ ˈhɛviər faɪnz/
@@ -592,7 +592,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Traffic violations:** Infractions of traffic laws, such as speeding or illegal parking.
 4. **Legal consequences:** The outcomes or penalties that result from breaking the law.
 5. **Public compliance:** The adherence of citizens to laws and regulations due to the fear of penalties.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.28.50.png>)
 **Upgrade road infrastructure**
 
 **IPA Pronunciation:** /ˈʌpɡreɪd roʊd ˌɪnfrəˈstrʌktʃər/
@@ -610,7 +610,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Traffic signals:** Devices used to control the flow of traffic at intersections.
 4. **Bridges and overpasses:** Structures built to allow traffic to cross over obstacles or other roads.
 5. **Maintenance and repair:** Regular upkeep and fixing of roads to ensure they remain in good condition.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.28.57.png>)
 **Running a red light**
 
 **IPA Pronunciation:** /ˈrʌnɪŋ ə rɛd laɪt/
@@ -628,7 +628,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Right of way:** The legal right to proceed forward in a traffic situation.
 4. **Traffic signal:** Lights used to control the flow of traffic at intersections.
 5. **Dangerous driving:** Reckless or careless driving that puts others at risk.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.29.03.png>)
 **Violate traffic laws**
 
 **IPA Pronunciation:** /ˈvaɪəleɪt ˈtræfɪk lɔːz/
@@ -646,7 +646,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Traffic citation:** A ticket issued by law enforcement for violating traffic laws.
 4. **Driving under the influence (DUI):** Operating a vehicle while impaired by alcohol or drugs.
 5. **Hit and run:** Leaving the scene of an accident without providing contact information or assisting the injured.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.29.10.png>)
 **Long tailbacks**
 
 **IPA Pronunciation:** /lɔːŋ ˈteɪlˌbæks/
@@ -664,7 +664,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Gridlock:** A situation where traffic is so congested that vehicles cannot move in any direction.
 4. **Traffic bottleneck:** A section of road where traffic is slowed down or stopped because the road narrows or there is an obstruction.
 5. **Rush hour:** The periods of the day when traffic is at its heaviest, usually during the morning and evening commutes.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.29.16.png>)
 **Casualties**
 
 **IPA Pronunciation:** /ˈkæʒuəltiz/
@@ -682,7 +682,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Emergency response:** The actions taken by emergency services to deal with a crisis.
 4. **Accident scene:** The location where an accident has occurred.
 5. **Victim:** A person harmed or killed as a result of an accident, crime, or other events.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.29.22.png>)
 **Peak hours**
 
 **IPA Pronunciation:** /piːk aʊərz/
@@ -700,7 +700,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Commuter traffic:** The flow of people traveling to and from work or school.
 4. **Bottleneck:** A point of congestion in a traffic system.
 5. **Gridlock:** A situation where traffic is so heavy that vehicles are unable to move.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.29.29.png>)
 **Traffic congestion**
 
 **IPA Pronunciation:** /ˈtræfɪk kənˈdʒɛstʃən/
@@ -718,7 +718,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Traffic jam:** A line or lines of stationary or very slow-moving traffic.
 4. **Rush hour:** The periods of the day with the highest traffic volume, typically in the morning and evening.
 5. **Traffic bottleneck:** A point where traffic congestion is particularly severe due to road narrowing or other obstacles.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.29.36.png>)
 **Intoxicated**
 
 **IPA Pronunciation:** /ɪnˈtɒksɪkeɪtɪd/
@@ -736,7 +736,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Tipsy:** Slightly intoxicated, usually from alcohol.
 4. **Buzzed:** Mildly intoxicated, often used to describe the initial effects of alcohol.
 5. **Wasted:** Heavily intoxicated, unable to function normally due to alcohol or drugs.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.29.42.png>)
 **Honk**
 
 **IPA Pronunciation:** /hɒŋk/
@@ -754,7 +754,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Impatient driver:** A driver who is frustrated and shows this through actions like honking.
 4. **Noise pollution:** Unwanted or harmful noise, such as excessive honking, that affects the environment.
 5. **Sound the horn:** Another way to say honking, indicating the use of a car's horn to make noise.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.29.49.png>)
 **Strict punishment**
 
 **IPA Pronunciation:** /strɪkt ˈpʌnɪʃmənt/
@@ -772,7 +772,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Deterrent effect:** The idea that strict punishments will discourage people from committing offenses.
 4. **Legal enforcement:** The act of ensuring compliance with laws through punishments.
 5. **Judicial sentencing:** The process by which a judge assigns a penalty to a convicted person.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.30.37.png>)
 **Proper measures**
 
 **IPA Pronunciation:** /ˈprɒpər ˈmɛʒərz/
@@ -790,7 +790,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Safety measures:** Procedures or actions implemented to ensure safety and prevent accidents.
 4. **Environmental measures:** Actions taken to protect the environment and reduce negative impacts.
 5. **Health measures:** Steps taken to protect and improve public health.
-##
+## ![Alt text](<Screenshot 2024-07-20 at 21.55.05.png>)
 **Candidate**
 
 **Pronunciation**: /ˈkændɪˌdeɪt/ or /ˈkændɪdɪt/
