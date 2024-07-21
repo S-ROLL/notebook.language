@@ -5,7 +5,8 @@
 - Task 1
   - Introduction
   - Overview
-# [NOUN-PHRASE](https://drive.google.com/file/d/1hFla4O43XDYaepxJJdfvFVZpj-z-RuCP/view?usp=share_link)
+--------------------
+# [NOUN-PHRASES](https://drive.google.com/file/d/1hFla4O43XDYaepxJJdfvFVZpj-z-RuCP/view?usp=share_link)
 ## Clause
 ``S + V + (O)``
 - Verb:
@@ -17,6 +18,7 @@
   - ``N + N`` $\rightarrow$ Featuring/Platform.
 - **Post-modifier**:
   - ``N + Ving/V3ed`` $\rightarrow$ Reduced form of relative clause.
+--------------------
 # PARAPHRASING
 ## [Synonyms](https://drive.google.com/file/d/19fpYMYGx4oHvwHEQSae993mCM-Fm_u6l/view?usp=share_link)
 > [LIST](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/synonyms%20list.md)
@@ -42,10 +44,12 @@ Step 3. Translate to Eng.
 | **2 VIEWS 👀** | - A school of thought holds that ``   ``. <br/> - Some opine that ``   ``. <br/> - Some are of the opinion that ``   ``. <br/> - Some hold a firm belief that ``   ``. |
 
 > Modal verb (should, could,...) ➡️ passive voice
+--------------------
 # TASK 1
 ## [INTRODUCTION](https://drive.google.com/file/d/1JiHqPw3w9ZynqOC1m_GloFygAxi3hduR/view?usp=share_link)
 ## [Overview]()
-## Homework List for Writing
+--------------------
+## Exercises
 | Content | Link | Status |
 | ----------- | ----------- | ----------- |
 | CLAUSE >< NOUN PHRASES | [question](https://docs.google.com/document/d/1sRWTcHq9LRnLnzLJJFUg1jIeljRy_zCClPn2n7MHSiw/edit?fbclid=IwZXh0bgNhZW0CMTAAAR19ktFYflJIaQ_eCbIQ3eSdiiRKlqhvoHhpHStg8cBSY0FaQyyCDQif_YY_aem_Ivqhpe_YccpR4ldQxy3yyg) <br/> [submit](https://drive.google.com/drive/folders/1FsEYnPz-B7ZkyCrj9aJFGhys8NikXQxC?fbclid=IwZXh0bgNhZW0CMTAAAR383kKVTTygF1ebtj8mo0AkxGrnFqCL4N6pmI1qJS3ZB4tdShqRzDhqIXc_aem_Gl5p3fHtebFKfcDtBgwejA)  | ☑️ |
