@@ -790,7 +790,7 @@ If you need any adjustments or more information, feel free to ask!
 3. **Safety measures:** Procedures or actions implemented to ensure safety and prevent accidents.
 4. **Environmental measures:** Actions taken to protect the environment and reduce negative impacts.
 5. **Health measures:** Steps taken to protect and improve public health.
-## ![Alt text](<Screenshot 2024-07-20 at 21.55.05.png>)
+## ![Alt text](<Screenshot 2024-07-21 at 13.44.24.png>)
 **Candidate**
 
 **Pronunciation**: /ˈkændɪˌdeɪt/ or /ˈkændɪdɪt/
