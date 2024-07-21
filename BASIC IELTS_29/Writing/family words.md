@@ -1,4 +1,4 @@
-# Family words (Part of Speech) 
+# Word form
 | Noun | Verb | Adjective | Adverb |
 | ----------- | ----------- | ----------- | ----------- |
 | density | | | densely |
