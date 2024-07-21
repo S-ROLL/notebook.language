@@ -1,9 +1,10 @@
 # WRITING
 ## Contents
-1. Noun-phrases
-2. Paraphrasing
-3. Task 1 - Introduction
-4. Task 1 - Overview
+- Noun-phrases
+- Paraphrasing
+- Task 1
+  - Introduction
+  - Overview
 # [NOUN-PHRASE](https://drive.google.com/file/d/1hFla4O43XDYaepxJJdfvFVZpj-z-RuCP/view?usp=share_link)
 ## Clause
 ``S + V + (O)``
