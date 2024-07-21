@@ -1,5 +1,5 @@
 # WRITING
-## Contents
+# Contents
 - Noun-phrases
 - Paraphrasing
 - Task 1
