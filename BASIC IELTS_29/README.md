@@ -6,7 +6,7 @@
 <br/>
 [Word form](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/family%20words.md)
 ## Theorical Contents
-- [Writing](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/README.md)
+- [Writing](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/writing.ipynb)
 - [Speaking](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Speaking/README.md)
 - [Reading](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Reading/README.md)
 - [Listening](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Listening/README.md)
