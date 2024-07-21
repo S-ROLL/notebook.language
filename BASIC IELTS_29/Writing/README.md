@@ -1,9 +1,9 @@
 # WRITING
 ## Contents
-1. [Noun-phrases](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/noun_phrases.md) | ☑️
-2. [Paraphrasing](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/paraphrasing.md) | ☑️
-3. [Task 1 - Introduction](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/task_1_introdction.md)
-4. [Task 1 - Overview](https://github.com/S-ROLL/notebook.language/blob/main/BASIC%20IELTS_29/Writing/task1_overview.md)
+1. Noun-phrases
+2. Paraphrasing
+3. Task 1 - Introduction
+4. Task 1 - Overview
 # [NOUN-PHRASE](https://drive.google.com/file/d/1hFla4O43XDYaepxJJdfvFVZpj-z-RuCP/view?usp=share_link)
 ## Clause
 ``S + V + (O)``
