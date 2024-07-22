@@ -1,6 +1,7 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| nurture | foster <br/> upbringing <br/> care |
 | apply | exert |
 | without | lack <br/> shortage |
 | construct | build <br/> erect <br/> establish |
