@@ -1,6 +1,7 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| instinctive | deep-seated <br/> elemental <br/> inborn <br/> ingrained <br/> inherent <br/> innate <br/> intrinsic <br/> intuitive |
 | ease | alleviate <br/> allay <br/> assuage <br/> mitigate |
 | unfavorable| adverse <br/> negative <br/> unfortunate <br/> unfriendly |
 | nurture | foster <br/> upbringing <br/> care |
