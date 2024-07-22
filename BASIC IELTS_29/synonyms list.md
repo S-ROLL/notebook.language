@@ -1,6 +1,7 @@
 # SYNONYMS
 | Main | Synonyms |
 | ----------- | ----------- |
+| ease | alleviate <br/> allay <br/> assuage <br/> mitigate |
 | unfavorable| adverse <br/> negative <br/> unfortunate <br/> unfriendly |
 | nurture | foster <br/> upbringing <br/> care |
 | apply | exert |
