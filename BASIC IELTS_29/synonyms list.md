@@ -1,6 +1,11 @@
 # SYNONYMS
-| Main | Synonyms |
+| Original | Synonyms |
 | ----------- | ----------- |
+| use | consume |
+| earn | gain |
+| release | emit <br/> discharge |
+| participate in | join <br/> engage in <br/> take part in |
+| invest in | allocate for <br/> spent on |
 | infrastructure | base <br/> framework|
 | instinctive | deep-seated <br/> elemental <br/> inborn <br/> ingrained <br/> inherent <br/> innate <br/> intrinsic <br/> intuitive |
 | ease | alleviate <br/> allay <br/> assuage <br/> mitigate |
@@ -26,7 +31,6 @@
 | errors | inaccurate <br/> inaccuracies <br/> false <br/> mistake <br/> wrong <br/> fault <br/> incorrect <br/> FLAW = IMPERFECTION <br/> defect(ive) |
 | discovery | finding <br/> result <br/> outcome <br/> conclusion |
 | surprising | unexpected <br/> amazing <br/> unbelievable <br/> shocking <br/> unpredictable <br/> incredible <br/> astonishing <br/> astounding <br/> CRAZY |
-| participate | join <br/> engage |
 | teenagers | adolescents |
 | produce | manufacture <br/> generate |
 | buy | purchase |
@@ -51,6 +55,8 @@
 | cheap | low-cost <br/> inexpensive <br/> affordable <br/> reasonably priced + N |
 | delicious | scrumptious <br/> mouth-watering |
 | everyday | on a day basis |
+| monthly | frequency month <br/> each month <br/> per month <br/> every month <br/> on a monthly basis |
+| yearly | frequency year <br/> each year <br/> per year <br/> every year <br/> on a yearly basis |
 | frequently (regularly) | on a frequent basis (on a regular basis) |
 | city people | urban citizens <br/> residents <br/> dwellers |
 | big city | major city <br/> metropolitan areas <br/> metropolises |
