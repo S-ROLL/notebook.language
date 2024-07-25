@@ -4,7 +4,7 @@ Honestly, when I was a little child, I harbored ``ˈhɑːrbərd`` a dream of bec
 
 Firstly, I realized ``ˈriːəlaɪzd`` that I'm not born to become a singer. I have no knack ``næk`` for singing, I don't have the natural talent, I wasn't born with a gift required ``rɪˈkwaɪərd`` to master in this field. I wanna say that I don't have what it takes to become a successful singer. You know, the dedication ``ˌdɛdɪˈkeɪʃən``, vocal skills, and stage presence ``ˈprɛzəns``, omg, that all needed are beyond my capabilities ``ˌkeɪpəˈbɪlɪtiz``.
 
-And the last one, the job of a singer is too physically and mentally demanding for me. The long hours of practice and the pressure to maintain a public image are overwhelming ``ˌoʊvərˈwɛlmɪŋ``. Specially, The lack of privacy makes me feel particularly ``pərˈtɪkjʊlɚli`` challenging.
+In fact, the job of a singer is too physically and mentally demanding for me. The long hours of practice and the pressure to maintain a public image are overwhelming ``ˌoʊvərˈwɛlmɪŋ``. Specially, The lack of privacy makes me feel particularly ``pərˈtɪkjʊlɚli`` challenging.
 
 In conclusion, while singing was a childhood dream, I have come to understand that it's not a suitable career choice for me.
 
