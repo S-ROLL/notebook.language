@@ -13,6 +13,6 @@ Last summer, I witnessed ``ˈwɪtnɪst`` a significant complaint while eating st
 
 The mother made a complaint about the portions ``ˈpɔːrʃənz`` of grilled ``ɡrɪld`` pork being too small and the unsanitary ``ʌnˈsænɪˌtɛri`` dipping sauce. She insisted on getting a better meal and called the waiter over. You know, luckily, the waiter apologized ``əˈpɑːləˌdʒaɪzd`` to her that he would bring a fresh sauce and more pork.
 
-You know, the mother's initial ``ɪˈnɪʃəl`` reaction had clearly ticked her off. I could tell she got pissed ``pɪst`` off because nothing is more important than hygiene ``ˈhaɪdʒiːn`` and quality when it comes to food. The waiter, however, remained calm and polite ``pəˈlaɪt``.
+You know, the mother's initial ``ɪˈnɪʃəl`` reaction had clearly ticked her off. I could tell she got pissed ``pɪst`` off because nothing is more important than hygiene ``ˈhaɪdʒiːn`` and quality when it comes to food. But okay, the unsanitary dipping sauce, I agreed, but the portion of grilled pork, uhm-hum, I think, it's not too small. But the waiter, however, remained calm and polite ``pəˈlaɪt``.
 
 This experience made me realize ``ˈriːəlaɪz`` the importance of good customer service. It showed how handling ``ˈhændlɪŋ`` complaints effectively can turn a negative situation into a positive one. You know, I admired ``ədˈmaɪərd`` the mother’s determination ``dɪˌtɜːrmɪˈneɪʃən`` to get what she deserved ``dɪˈzɜːrvd`` and the waiter’s professionalism ``prəˈfɛʃənəlɪzəm`` in resolving `` ri'zɔlvɪŋ`` the problem.
