@@ -11,7 +11,7 @@ In conclusion, while singing was a childhood dream, I have come to understand th
 ## Describe an occasion when you heard someone complaining about something in a restaurant / store or other business places
 Last summer, I witnessed ``ˈwɪtnɪst`` a significant complaint while eating street food in Hanoi, specifically ``spi'sifikəli`` Bun Cha. It was around noon, in the heart ``hɑ:t`` of Hanoi’s Old Quarter ``'kwɔ:tə``, when a family sitting at the table next to mine showed **dissatis**faction ``ˌdɪsˌsætɪsˈfækʃən`` with their meal.
 
-Omg, the mother made a complaint about the portions ``ˈpɔːrʃənz`` of grilled ``ɡrɪld`` pork being too small and the unsanitary ``ʌnˈsænɪˌtɛri`` dipping sauce. She insisted on getting a better meal and called the waiter over. Holly cow! luckily, the waiter apologized ``əˈpɑːləˌdʒaɪzd`` to her that he would bring a fresh sauce and more pork.
+The mother made a complaint about the portions ``ˈpɔːrʃənz`` of grilled ``ɡrɪld`` pork being too small and the unsanitary ``ʌnˈsænɪˌtɛri`` dipping sauce. She insisted on getting a better meal and called the waiter over. OMG! luckily, the waiter apologized ``əˈpɑːləˌdʒaɪzd`` to her that he would bring a fresh sauce and more pork.
 
 Unbelievable! the mother's initial ``ɪˈnɪʃəl`` reaction had clearly ticked her off. I could tell she got pissed ``pɪst`` off because nothing is more important than hygiene ``ˈhaɪdʒiːn`` and quality when it comes to food. But okay, the unsanitary dipping sauce, I agreed, but the portion of grilled pork, uhm-hum, I think, it's not too small. But the waiter, however, remained calm and polite ``pəˈlaɪt``.
 
