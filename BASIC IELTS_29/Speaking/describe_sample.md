@@ -2,7 +2,7 @@
 ## Describe a job that you do not like to do in the future 💼
 Honestly, when I was a little child, I harbored ``ˈhɑːrbərd`` a dream of becoming a singer. Like many kids, I've always fantasized ``'fæntəsaiz`` about performing on a big stage and receiving ``rɪˈsiːvɪŋ`` applause ``əˈplɔːz`` from the audience ``'ɔ:djəns``. However, as I grew older, you know, my mindset changed ``tʃeɪndʒd`` and It’s just dawned ``dɔːnd`` on me that being a singer isn't the right path for me.
 
-Firstly, I realized ``ˈriːəlaɪzd`` that I'm not born to become a singer. I have no knack ``næk`` for singing, I don't have the natural talent, I wasn't born with a gift required ``rɪˈkwaɪərd`` to master in this field. I wanna say that I don't have what it takes to become a successful singer. You know, the dedication ``ˌdɛdɪˈkeɪʃən``, vocal skills, and stage presence ``ˈprɛzəns``, omg, that all needed are beyond my capabilities ``ˌkeɪpəˈbɪlɪtiz``.
+Firstly, I realized ``ˈriːəlaɪzd`` that I'm not born to become a singer. I have no knack ``næk`` for singing, I don't have the natural talent, I wasn't born with a gift required ``rɪˈkwaɪərd`` to master a skill. I wanna say that I don't have what it takes to become a successful singer. You know, the dedication ``ˌdɛdɪˈkeɪʃən``, vocal skills, and stage presence ``ˈprɛzəns``, omg, that all needed are beyond my capabilities ``ˌkeɪpəˈbɪlɪtiz``.
 
 In fact, the job of a singer is too physically and mentally demanding for me. The long hours of practice and the pressure to maintain a public image are overwhelming ``ˌoʊvərˈwɛlmɪŋ``. Specially, The lack of privacy makes me feel particularly ``pərˈtɪkjʊlɚli`` challenging.
 
