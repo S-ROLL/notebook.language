@@ -7,6 +7,20 @@ Firstly, I realized ``ˈriːəlaɪzd`` that I'm not born to become a singer. I h
 In fact, the job of a singer is too physically and mentally demanding for me. The long hours of practice and the pressure to maintain a public image are overwhelming ``ˌoʊvərˈwɛlmɪŋ``. Specially, The lack of privacy makes me feel particularly ``pərˈtɪkjʊlɚli`` challenging.
 
 In conclusion, while singing was a childhood dream, I have come to understand that it's not a suitable career choice for me.
+### Task 3
+Here are the paragraphs for each question using the provided sample structures:
+
+1. **What kind of jobs do young people in your country like to do?**  
+    Young people in my country are really into jobs in the tech industry, such as software development and digital marketing. These roles offer creativity, innovation, and a dynamic work environment, which appeal to the younger generation. Additionally, many are also drawn to careers in entrepreneurship and start-ups, seeking the excitement of building something new and impactful.
+
+2. **Which one do young people prefer, an interesting job or a job with a high salary?**  
+    It kinda depends on individual priorities, but generally, young people seem to lean towards interesting jobs. They value passion and fulfillment in their work, which keeps them motivated and satisfied. However, for some, the practicality of a high salary is crucial, especially when considering financial stability and future goals.
+
+3. **Do you think it is easier to get a job now than in the past?**  
+    I would probably say it is easier to get a job now compared to the past. With the advancement of technology and the proliferation of online job platforms, job seekers have more access to opportunities. However, the competition has also increased, and the expectations for skills and qualifications are higher, making it a mixed scenario.
+
+4. **Do you think A.I (artificial intelligence) will take over many jobs?**  
+    It kinda depends on the industry, but I believe A.I will take over many jobs, especially those involving repetitive and routine tasks. Fields like manufacturing and data processing are likely to see significant automation. However, jobs requiring creativity, critical thinking, and human interaction are less likely to be completely replaced by A.I.
 
 ## Describe an occasion when you heard someone complaining about something in a restaurant / store or other business places
 Last summer, I witnessed ``ˈwɪtnɪst`` a significant complaint while eating street food in Hanoi, specifically ``spi'sifikəli`` Bun Cha. It was around noon, in the heart ``hɑ:t`` of Hanoi’s Old Quarter ``'kwɔ:tə``, when a family sitting at the table next to mine showed **dissatis**faction ``ˌdɪsˌsætɪsˈfækʃən`` with their meal.
