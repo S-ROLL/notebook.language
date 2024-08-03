@@ -13,7 +13,8 @@ nav:
       - Tabular: synonymslist.md
       - Topic: topicsynonyms.md
     - Word form:
-      - Tabular: wordform.md
+      - Theoretical: wordform.md
+      - Tabular: wordformlist.md
 
 theme:
   name: material
