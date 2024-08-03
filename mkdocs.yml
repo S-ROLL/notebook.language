@@ -1,10 +1,19 @@
-site_name: EnglishBancie
+site_name: English x Bancie
 
 nav:
   - Home: index.md
   - Notebook:
-    - Writing: writing.md
-    - Speaking: speaking.md
+    - WRITING: writing.md
+    - SPEAKING: speaking.md
+    - READING: reading.md
+    - LISTENING: listening.md
+  - Practical sources: practicalsources.md
+  - Others:
+    - Synonyms:
+      - Tabular: synonymslist.md
+      - Topic: topicsynonyms.md
+    - Word form:
+      - Tabular: wordform.md
 
 theme:
   name: material
@@ -28,17 +37,31 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-      primary: indigo
+      primary: blue grey
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/weather-night
         name: Switch to light mode    
-      primary: white
+      primary: blue grey
       accent: lime
   font:
     text: Open Sans
   logo: DD2720DA-BB15-485E-B165-38C2AB955668.png
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -55,6 +78,9 @@ markdown_extensions:
   - attr_list
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_javascript:
   - javascripts/katex.js
@@ -65,6 +91,7 @@ extra_javascript:
 
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
+  - stylesheets/extra.css
 
 copyright: |
   &copy; 2023 <a href="https://web.facebook.com/ngchibangg"  target="_blank" rel="noopener">Bang Nguyen</a>
