@@ -1,7 +1,5 @@
 # Welcome to English x Bancie! ❤️
 
-BANCIEEE
-
 *Hey IELTS Crew!*
 
 Welcome to your ultimate IELTS hangout. Here, I've gathered all my favorite resources, tips, and tricks that helped me crush the test. Whether you're aiming for a top score or just getting started, this place has got you covered. Dive in, explore, and let's nail those IELTS goals together!
