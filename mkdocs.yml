@@ -53,6 +53,7 @@ theme:
     text: Open Sans
   logo: DD2720DA-BB15-485E-B165-38C2AB955668.png
   icon:
+    logo: DD2720DA-BB15-485E-B165-38C2AB955668.png
     admonition:
       note: fontawesome/solid/note-sticky
       abstract: fontawesome/solid/book
