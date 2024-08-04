@@ -19,7 +19,6 @@ nav:
 
 theme:
   name: material
-  favicon: docs/DD2720DA-BB15-485E-B165-38C2AB955668.png
   features:
      - navigation.footer
      - navigation.tabs
@@ -51,7 +50,8 @@ theme:
       accent: lime
   font:
     text: Open Sans
-  logo: docs/DD2720DA-BB15-485E-B165-38C2AB955668.png
+  logo: DD2720DA-BB15-485E-B165-38C2AB955668.png
+  favicon: DD2720DA-BB15-485E-B165-38C2AB955668.png
   icon:
     logo: logo
     admonition:
