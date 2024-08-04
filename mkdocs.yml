@@ -1,5 +1,6 @@
 site_name: English x Bancie
-
+site_url: https://s-roll.github.io/notebook.language/
+site_author: Bang Nguyen
 nav:
   - Home: index.md
   - Notebook:
@@ -18,7 +19,9 @@ nav:
 
 theme:
   name: material
+  favicon: DD2720DA-BB15-485E-B165-38C2AB955668.png
   features:
+     - navigation.footer
      - navigation.tabs
      - navigation.tabs.sticky
      - navigation.expand
@@ -99,6 +102,7 @@ copyright: |
   &copy; 2024 <a href="https://web.facebook.com/ngchibangg"  target="_blank" rel="noopener">Bang Nguyen</a>
 
 extra:
+  homepage: https://s-roll.github.io/notebook.language/
   social:
     - icon: fontawesome/brands/facebook
       link: https://web.facebook.com/ngchibangg
