@@ -1,6 +1,6 @@
 ## <h1 style="text-align: center;">WRITING</h1>
 
-# <h1 style="text-align: center;">[NOUN-PHRASES](https://drive.google.com/file/d/1hFla4O43XDYaepxJJdfvFVZpj-z-RuCP/view?usp=share_link)</h1>
+# <h1 style="text-align: center;">NOUN-PHRASES</h1>
 ## Clause
 ``S + V + (O)``
 - Verb:
@@ -14,14 +14,14 @@
     - ``N + Ving/V3ed`` $\rightarrow$ Reduced form of relative clause.
 
 # <h1 style="text-align: center;">PARAPHRASING</h1>
-## [Synonyms](https://drive.google.com/file/d/19fpYMYGx4oHvwHEQSae993mCM-Fm_u6l/view?usp=share_link)
+## Synonyms
 - Condition:
     1. Part of speech
     2. Meaning
 !!! example
     - State-of-the-art / Cutting-edge + ``N ➡️ Máy móc, công nghệ, thiết bị, dụng cụ, phát minh, ứng dụng, thiết kế tiên tiến, tối tân.``
     - Contemporary + ``N ➡️ Suy nghĩa, điệu múa, âm nhạc, văn hoá, xã hội, lối sống, nền văn minh, con người.``
-## [Part of speech / Word form](https://drive.google.com/file/d/1R0SGNaW0gKsVCbLt2dn8Qg8IcEC8FABM/view?usp=sharing)
+## Part of speech / Word form
 - **Step 1**. Define word having family words.
 - **Step 2**. Translate to Viet sentence obtained family words.
 - **Step 3**. Translate to Eng.
@@ -45,7 +45,7 @@
     - time period ![alt text](E0531852-3274-417A-93E6-FEC7A5C9CE8B.png)
     - discrete categories ![alt text](59CF3CD3-5429-409C-BB70-0904E839BBF9.png)
 
-## [INTRODUCTION](https://drive.google.com/file/d/1JiHqPw3w9ZynqOC1m_GloFygAxi3hduR/view?usp=share_link)
+## INTRODUCTION
 
 ### Goal
 - **Paraphrase** the task.
@@ -78,7 +78,7 @@
 | he line graph below shows the percentage of travelers who visited four different attractions in Brighton in 2009. | The given line graph depicts the proportion of many of tourists visiting four different spots over the course of years from 2000 to 2010. |
 | The bar chart gives information about the yearly spending on healthcare service by the government in America from 1970 to 1980. | The provided bar chart shows data on the amount of money spent per year on medical-care service by the government in the US during the period spanning from 1970 to 1980. |
 
-## [OVERVIEW](https://drive.google.com/file/d/1wZ01aBB7M6JJHjfdFSG0OtMl8jW_CWnc/view?usp=share_link)
+## OVERVIEW
 
 !!! abstract
     === "**Time period**"
@@ -134,7 +134,7 @@
 | ``Categories`` recorded (displayed) the highest/lowest ``subject`` | - US recorded the highest proportion of spending on education. <br/> - Education in US recorded the highest proportion of spending. | |
 | ``Subject 1`` be (``strong/weak``) higher/lower than that in/on/at ``subject 2`` | - The proportion of students attending online classes at center A was much higher than that at center B. <br/> - UK men spent more time exercising than **those** in the US. <br/> - UK and US recorded a far higher proportion of spending on education than **the other countries**.| - **strong**: significantly, considerably, far, much. <br/> - **weak**: slightly, a bit, a little. <br/> - that $\rightarrow$ several $\rightarrow$ **those** <br/> - ``subject 1`` is the best $\rightarrow$ than the other countries (the remaining countries). |
 
-## [BODY](https://drive.google.com/file/d/1MojIZNzdKyi-4ewVHlHFlmsssa9fxmuW/view?usp=share_link)
+## BODY
 
 ### Units
 - ``,`` $\rightarrow$ separation. e.g. 100,000,000 <br/>
@@ -157,12 +157,3 @@
 | Original | Changing to | Note | Example |
 | ----------- | ----------- | ----------- | ----------- |
 | ``Subject`` ``Verb_1`` **and** ``Verb_2`` | ``Subject`` ``Verb_1``**,** ``Verb_2``**-ing** | V1 and V2 is the same subject | - In 1980, car sales in UK started at 10M cars, and then **this figure rose sharply and peaked** at 20M cars in 1985. <br/> -> In 1980, car sales in UK started at 10M cars, and then **this figure rose sharply, peaking** at 20M cars in 1985. |
-
-# <h1 style="text-align: center;">Exercises</h1>
-| Exercises | | |
-| :-----------: | :-----------: | :-----------: |
-| CLAUSE >< NOUN PHRASES | [question :fontawesome-solid-circle-question:](https://docs.google.com/document/d/1sRWTcHq9LRnLnzLJJFUg1jIeljRy_zCClPn2n7MHSiw/edit?fbclid=IwZXh0bgNhZW0CMTAAAR19ktFYflJIaQ_eCbIQ3eSdiiRKlqhvoHhpHStg8cBSY0FaQyyCDQif_YY_aem_Ivqhpe_YccpR4ldQxy3yyg){ .md-button } | [submit :fontawesome-solid-paper-plane:](https://drive.google.com/drive/folders/1FsEYnPz-B7ZkyCrj9aJFGhys8NikXQxC?fbclid=IwZXh0bgNhZW0CMTAAAR383kKVTTygF1ebtj8mo0AkxGrnFqCL4N6pmI1qJS3ZB4tdShqRzDhqIXc_aem_Gl5p3fHtebFKfcDtBgwejA){ .md-button }  |
-| PARAPHRASING | [question :fontawesome-solid-circle-question:](https://docs.google.com/document/d/1t5sB8szlP9clfBvV_9uFUy4w3VthnatVVS5TpfqUXqk/edit?fbclid=IwZXh0bgNhZW0CMTAAAR1yuSrPZeeEJZ5CNSEZXEGVpu0nC29ii4Ad5KVIGrz0I04VGIz4NSzeXhs_aem_WwSctkv-CTBJ35W9jQcwxg#heading=h.dgmf7z737zlx){ .md-button } | [submit :fontawesome-solid-paper-plane:](https://drive.google.com/drive/folders/1qicMFGO6dSxFBjknb5VUPJiYr1_uoJaW?fbclid=IwZXh0bgNhZW0CMTAAAR07GI5EOvDWLyg55cfwHyheFLorbDeGMgbG-kBuC71IcpGPK8I3-YRfuyw_aem_KlEzyUdftE7Q2Iz5OwgFFg){ .md-button } |
-| Task 1 - Introduction | [question :fontawesome-solid-circle-question:](https://drive.google.com/drive/folders/1AOLlz6mEvnoohnCSrz15_ODhmVBqUXNh?fbclid=IwZXh0bgNhZW0CMTAAAR1ma2K1r_J-4tCIqrY3V6VHFMKlHFU_J3LWrSxkSAxDqsdDvav6H3WSGt8_aem_ebCf4q_iyV8FI3W9w-uxsw){ .md-button } | [submit :fontawesome-solid-paper-plane:](https://drive.google.com/drive/folders/1AOLlz6mEvnoohnCSrz15_ODhmVBqUXNh?fbclid=IwZXh0bgNhZW0CMTAAAR1ma2K1r_J-4tCIqrY3V6VHFMKlHFU_J3LWrSxkSAxDqsdDvav6H3WSGt8_aem_ebCf4q_iyV8FI3W9w-uxsw){ .md-button } |
-| Task 1 - Overview | [question :fontawesome-solid-circle-question:](https://docs.google.com/document/d/1ZpACt8oEkXEKIxlqSCc61LLJANDOszVAdyASC6XE97M/edit?fbclid=IwZXh0bgNhZW0CMTAAAR3PExno_V4qYGpBc6JeMCncriM3-PuXnOyVwo-6xMdo2l1T-EoLQddWfaI_aem_lPEapdENNbww_7cCynSYlA){ .md-button } | [submit :fontawesome-solid-paper-plane:](https://drive.google.com/drive/folders/1BnflgM8mA1SxlwjLa6WitkgSqJ_ti0OY?fbclid=IwZXh0bgNhZW0CMTAAAR0yKnErSHRTJD4jktiN1zDAfrI2-uxMFtyT3PcaG8-4SOU1urQcc2Yjonk_aem_EKH6VO-Cf8P44ZrDqFkdRw){ .md-button } |
-| Task 1 - Full body | | [submit :fontawesome-solid-paper-plane:](https://drive.google.com/drive/folders/12FtGKjZr5HsIoKZr1qPCO2Bbx2QKVwzU?fbclid=IwZXh0bgNhZW0CMTAAAR3VcPj_bP5Lhgtw4noADCS_BeoyAQrcZPetl4EuvoxRDqbkx0vb2HoYI7Y_aem_Qb5_LqDZofhWCCkCwKR3jw){ .md-button } |
