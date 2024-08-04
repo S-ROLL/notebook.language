@@ -19,7 +19,7 @@ nav:
 
 theme:
   name: material
-  favicon: DD2720DA-BB15-485E-B165-38C2AB955668.png
+  favicon: docs/DD2720DA-BB15-485E-B165-38C2AB955668.png
   features:
      - navigation.footer
      - navigation.tabs
@@ -53,7 +53,7 @@ theme:
     text: Open Sans
   logo: DD2720DA-BB15-485E-B165-38C2AB955668.png
   icon:
-    logo: DD2720DA-BB15-485E-B165-38C2AB955668.png
+    logo: logo
     admonition:
       note: fontawesome/solid/note-sticky
       abstract: fontawesome/solid/book
