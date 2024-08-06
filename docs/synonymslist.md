@@ -1,4 +1,3 @@
-# Synonyms Tabular
 | Original | Synonyms |
 | ----------- | ----------- |
 | use | consume |

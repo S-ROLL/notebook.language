@@ -1,25 +1,41 @@
-site_name: English x Bancie
+site_name: IELTS x Bancie
 site_url: https://s-roll.github.io/notebook.language/
 site_author: Bang Nguyen
 nav:
   - Home: index.md
   - Notebook:
-    - WRITING: writing.md
-    - SPEAKING: speaking.md
-    - READING: reading.md
+    - WRITING:
+      - writing/index.md
+      - Task 1:
+        - writing/task1/index.md
+        - Introduction: writing/task1/introduction.md
+        - Overview: writing/task1/overview.md
+        - Body: writing/task1/body.md
+      - Task 2: writing/task2.md
+    - SPEAKING:
+      - speaking/index.md
+      - Part 1:
+        - Liking/Disliking question: speaking/liking.md
+        - Choice question: speaking/choice.md
+      - Part 2:
+        - Describe: speaking/part2.md
+    - READING:
+      - reading/index.md
+      - Completion question: reading/completion.md
+      - Multiple choice: reading/multiple.md
     - LISTENING: listening.md
-  - Practical sources: practicalsources.md
-  - Others:
-    - Synonyms:
-      - Tabular: synonymslist.md
-      - Topic: topicsynonyms.md
-    - Word form:
-      - Theoretical: wordform.md
-      - Tabular: wordformlist.md
+  - Synonyms:
+    - Tabular: synonymslist.md
+    - Topic: topicsynonyms.md
+  - Word form:
+    - wordform/index.md
+    - Tabular: wordform/wordformlist.md
+  - Practical: practicalsources.md
 
 theme:
   name: material
   features:
+     - toc.follow
      - navigation.footer
      - navigation.tabs
      - navigation.tabs.sticky

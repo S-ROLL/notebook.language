@@ -1,5 +1,3 @@
-# <h1 style="text-align: center;">Synonyms Grouped by Topic</h1>
-
 ## Actions and Processes
 - **Use:** consume
 - **Earn:** gain

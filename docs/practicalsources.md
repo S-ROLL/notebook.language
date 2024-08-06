@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 # <h1 style="text-align: center;">Practical sources</h1>
 
 ## [FULL TESTS - tuhocielts.dolenglish.vn](https://tuhocielts.dolenglish.vn/luyen-thi-ielts/free-ielts-online-test)
