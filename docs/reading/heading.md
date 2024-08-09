@@ -15,7 +15,7 @@
 - Future $\rightarrow$ upcoming/anticipations/long-term
 ### Noun
 - **Synonyms (contextualized):**
-    - Synonyms $\rightarrow$ [click here](synonymslist.md){ .md-button .md-button--primary }
+    - Synonyms $\rightarrow$ [click here](../synonymslist.md){ .md-button .md-button--primary }
     - Contextualized $\rightarrow$ vocab.
     !!! example
         - **change** $\rightarrow$ redesign, improve
