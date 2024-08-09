@@ -11,7 +11,8 @@ nav:
         - Introduction: writing/task1/introduction.md
         - Overview: writing/task1/overview.md
         - Body: writing/task1/body.md
-      - Task 2: writing/task2.md
+      - Task 2:
+        - writing/task2/index.md
     - SPEAKING:
       - speaking/index.md
       - Part 1:
@@ -23,6 +24,7 @@ nav:
       - reading/index.md
       - Completion question: reading/completion.md
       - Multiple choice: reading/multiple.md
+      - Matching heading: reading/heading.md
     - LISTENING: listening.md
   - Synonyms:
     - Tabular: synonymslist.md
