@@ -1,5 +1,11 @@
-| Original | Synonyms |
-| ----------- | ----------- |
+| Original | Synonyms | Contextualized |
+| :-----------: | ----------- | ----------- |
+| basic | fundamental <br/> significant <br/> radical |
+| effect | outcome <br/> reaction <br/> issue| impact <br/> increase/decrease |
+| long-term | upcoming <br/> anticipations |
+| early | past <br/> historic <br/> stone age <br/> medieval <br/> century |
+| currently | present <br/> at the moment |
+| new | fresh <br/> never before <br/> unlike all previous <br/> first time <br/> unprecedented <br/> novel |
 | use | consume |
 | earn | gain |
 | release | emit <br/> discharge |
@@ -24,7 +30,7 @@
 | improved (+) | MORE fuel efficient (+) <br/> CHANGE IN A BETTER WAY |
 | modified | redesigned (CONTEXTUALIZED) <br/> CHANGE |
 | modification | change <br/> adjustment <br/> alteration <br/> amendment |
-| modify | change <br/> adjust <br/> alter <br/> amend <br/> shift |
+| modify | change <br/> adjust <br/> alter <br/> amend <br/> shift | redesign <br/> improve |
 | perfect | FLAWLESS <br/> IMPECCABLE |
 | factual | statements <br/> evidence <br/> proof <br/> testament <br/> figures <br/> statistics |
 | errors | inaccurate <br/> inaccuracies <br/> false <br/> mistake <br/> wrong <br/> fault <br/> incorrect <br/> FLAW = IMPERFECTION <br/> defect(ive) |
@@ -49,7 +55,7 @@
 | university education | tertiary education <br/> higher education |
 | education | schooling |
 | work with | cooperate <br/> collaborate with |
-| challenges | obstacles <br/> difficulties |
+| challenges | obstacles <br/> difficulties <br/> hurdles |
 | lack of money | financial constraint |
 | cheap | low-cost <br/> inexpensive <br/> affordable <br/> reasonably priced + N |
 | delicious | scrumptious <br/> mouth-watering |
