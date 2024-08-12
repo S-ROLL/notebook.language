@@ -33,3 +33,7 @@
 ## Classification
 !!! note
     No highlight if all **same type**.
+
+Classification tabular for newbie
+
+<center> [DOWNLOAD PDF](https://drive.google.com/file/d/1HaPC5L9xl3wfFG2uksrHDW7OiQYnl5dl/view?usp=share_link){ .md-button .md-button--primary } <center/>

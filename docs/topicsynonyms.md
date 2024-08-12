@@ -1,3 +1,6 @@
+---
+password: ieltsxbancie2003
+---
 ## Actions and Processes
 - **Use:** consume
 - **Earn:** gain

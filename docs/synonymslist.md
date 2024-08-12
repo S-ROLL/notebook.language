@@ -1,3 +1,6 @@
+---
+password: ieltsxbancie2003
+---
 | Original | Synonyms | Contextualized |
 | :-----------: | ----------- | ----------- |
 | basic | fundamental <br/> significant <br/> radical |

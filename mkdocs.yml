@@ -34,6 +34,17 @@ nav:
     - Tabular: wordform/wordformlist.md
   - Practical: practicalsources.md
 
+plugins:
+    - search: {}
+    - encryptcontent:
+        title_prefix: ''
+        summary: 'Bạn cần có password để vào được trang này.'
+        placeholder: 'Nhập password'
+        decryption_failure_message: 'Try again!'
+        encryption_info_message: "Vui lòng nhập password vào bên dưới"
+        input_class: 'md-search__form md-search__input'
+        button_class: 'md-search__icon'
+
 theme:
   name: material
   features:
