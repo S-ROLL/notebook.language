@@ -35,6 +35,7 @@ nav:
   - Practical: practicalsources.md
 
 plugins:
+    - search: {}
     - encryptcontent:
         title_prefix: ''
         summary: 'Bạn cần có password để vào được trang này.'
