@@ -23,8 +23,5 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: pip install pillow cairosvg
-      - run: |
-          cd mkdocs-encryptcontent-plugin/
-          python setup.py sdist bdist_wheel
-          pip install --force-reinstall --no-deps dist/mkdocs_encryptcontent_plugin-3.0.3-py3-none-any.whl
+      - run: pip install mkdocs-encryptcontent-plugin  # Install plugin from PyPI
       - run: mkdocs gh-deploy --force
