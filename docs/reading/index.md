@@ -8,8 +8,8 @@
 - Species / An animal 🐶
 - Terminology 📘
 ### Words with similar meanings (contextualized)
-- [Synomyms](synonymslist.md).
-- [Part of speech (word form)](wordform.md).
+- [Synonyms (keyword table)](../synonyms/index.md).
+- [Part of speech (word form)](../wordform/wordformlist.md).
 
 !!! example
     The study by **Canadian** scientists in **2011** made a surprising discovery. <br/> $\rightarrow$ "...and this was a finding that was completely unexpected."

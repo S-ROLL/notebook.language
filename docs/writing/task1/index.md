@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;">TASK 1</h1>
+# <center>TASK 1<center/>
 
 ## Chart type
 - bar / column

@@ -1,4 +1,4 @@
-site_name: IELTS x Bancie
+site_name: BanIELTSg
 site_url: https://s-roll.github.io/notebook.language/
 site_author: Bang Nguyen
 nav:
@@ -12,7 +12,7 @@ nav:
         - Overview: writing/task1/overview.md
         - Body: writing/task1/body.md
       - Task 2:
-        - writing/task2/index.md
+        - Advantage & disadvantage: writing/task2/a_disa.md
     - SPEAKING:
       - speaking/index.md
       - Part 1:
@@ -25,13 +25,17 @@ nav:
       - Completion question: reading/completion.md
       - Multiple choice: reading/multiple.md
       - Matching heading: reading/heading.md
-    - LISTENING: listening.md
-  - Synonyms:
-    - Tabular: synonymslist.md
-    - Topic: topicsynonyms.md
-  - Word form:
+    - LISTENING:
+      - Alphabet: listening/alphabet.md
+      - Numbers: listening/numbers.md
+      - Completion: listening/completion.md
+      - Multiple choice: listening/multiplechoice.md
+  - Keyword table:
+    - synonyms/index.md
+    - Topic classification: synonyms/topicsynonyms.md
+  - Part of speech:
     - wordform/index.md
-    - Tabular: wordform/wordformlist.md
+    - Table: wordform/wordformlist.md
   - Practical: practicalsources.md
 
 plugins:
@@ -139,6 +143,3 @@ extra:
       link: https://web.facebook.com/ngchibangg
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/bancie.007/
-    - icon: fontawesome/brands/github
-      link: https://github.com/Bancie
-  

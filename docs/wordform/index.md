@@ -14,5 +14,5 @@ The same.
 - ``Linking verb`` + Adj
 - ``make / find / keep`` + Adj
 - ``leave + O`` + Adj
-!!! info
-    [Word form tabular](wordformlist.md)
+
+<center>[Table](wordformlist.md){ .md-button .md-button--primary }<center/>

@@ -7,20 +7,20 @@
 ## Basic
 | ORIGINAL | CHANGING TO | NOTE |
 | ----------- | ----------- | ----------- |
-| graph / diagram | - the given ``   `` <br/> - the provided ``   `` | ``   ``: line graph, bar chart, column chart, pie chart |
-| below | | omitted |
-| show | - illustrate <br/> - depict <br/> - compare <br/> - contrast | don't miss **s** if several. |
-| information about | data on ``   `` in ``the subject under survey`` | (not important) <br/> - time period $\rightarrow$ ``   ``: the changes <br/> - without time period $\rightarrow$ ``   ``: the differences  |
-| from year ``  `` to year ``  `` | - between ``  `` and ``  `` <br/> - over the course of ``  `` years from ``  `` to ``  `` <br/> - during the period spanning from ``  `` to ``  `` | in ``  `` $\rightarrow$ in the year ``  `` |
+| **graph / diagram** | - the given ``   `` <br/> - the provided ``   `` | ``   ``: line graph, bar chart, column chart, pie chart |
+| **below** | | omitted |
+| **show** | - illustrate <br/> - depict <br/> - compare <br/> - contrast | don't miss **s** if several. |
+| **information about** | data on ``   `` in ``the subject under survey`` | (not important) <br/> - time period $\rightarrow$ ``   ``: the changes <br/> - without time period $\rightarrow$ ``   ``: the differences  |
+| **from year ``  `` to year ``  ``** | - between ``  `` and ``  `` <br/> - over the course of ``  `` years from ``  `` to ``  `` <br/> - during the period spanning from ``  `` to ``  `` | in ``  `` $\rightarrow$ in the year ``  `` |
 
 ## Subject under survey
 | ORIGINAL | CHANGING TO | EXAMPLE |
 | ----------- | ----------- | ----------- |
-| *data/figures* | - the number of ``noun (countable) + Ving/3ed`` <br/> - the amount of ``noun (uncountable) + Ving/3ed`` <br/> - the proportion (percentage/rate) of ``noun + Ving/3ed``| - the amount of money invested <br/> - the amount of money earned <br/> - the proportion of people using the local library <br/> - the amount of gas emitted from 2 different private vehicles. |
-| ``subject A`` in ``country B`` | ``demonym B`` + ``subject A`` | Children in Australia $\rightarrow$ Australian children |
+| **(data/figures)** | - the number of ``noun (countable) + Ving/3ed`` <br/> - the amount of ``noun (uncountable) + Ving/3ed`` <br/> - the proportion (percentage/rate) of ``noun + Ving/3ed``| - the amount of money invested <br/> - the amount of money earned <br/> - the proportion of people using the local library <br/> - the amount of gas emitted from 2 different private vehicles. |
+| **``subject A`` in ``country B``** | ``demonym B`` + ``subject A`` | Children in Australia $\rightarrow$ Australian children |
 
 !!! Info
-    For another words $\rightarrow$ [synonyms](../../synonymslist.md)
+    For another words $\rightarrow$ [Synonyms](../../synonyms/index.md)
 
 ## Samples
 | ORIGINAL | CHANGED |

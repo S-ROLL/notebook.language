@@ -44,10 +44,10 @@
     - **Transitive verb** $\rightarrow$ **adv** + VO | VO + **adv**.
 
 ## Structures
-| STRUCTURE | EXAMPLE | Note |
+| STRUCTURE | NOTE | EXAMPLE |
 | ----------- | ----------- | ----------- |
-| ``Subject`` ``Verb`` ``Adv`` | The number of cars produced by company A **increase sharply** during the surveyed period. | |
-| There was a ``adj`` ``noun (key trend)`` in ``subject`` | In UK, there was a **marginal rise** in the investment in public services. | ``Adj`` is **Adv** bonus above ☝️ changed to Adj form. |
-| - ``categories`` witnessed (saw/ experenced) a ``adj`` ``noun (key trend)`` (in ``subject``) <br/> - ``Subject`` witnessed (saw/ experienced) a ``adj`` ``noun (key trend)`` | Beef consumption in England rose sharply, while **France experienced a marginal fall throughout the surveyed period**. | - Maybe use when you see loop word status. <br/> - while / whereas |
-| ``Categories`` recorded (displayed) the highest/lowest ``subject`` | - US recorded the highest proportion of spending on education. <br/> - Education in US recorded the highest proportion of spending. | |
-| ``Subject 1`` be (``strong/weak``) higher/lower than that in/on/at ``subject 2`` | - The proportion of students attending online classes at center A was much higher than that at center B. <br/> - UK men spent more time exercising than **those** in the US. <br/> - UK and US recorded a far higher proportion of spending on education than **the other countries**.| - **strong**: significantly, considerably, far, much. <br/> - **weak**: slightly, a bit, a little. <br/> - that $\rightarrow$ several $\rightarrow$ **those** <br/> - ``subject 1`` is the best $\rightarrow$ than the other countries (the remaining countries). |
+| **``Subject`` ``Verb`` ``Adv``** | | The number of cars produced by company A **increase sharply** during the surveyed period. |
+| **There was a ``adj`` ``noun (key trend)`` in ``subject``** | ``Adj`` is **Adv** bonus above ☝️ changed to Adj form. | In UK, there was a **marginal rise** in the investment in public services. |
+| **- ``Categories`` witnessed (saw/ experenced) a ``adj`` ``noun (key trend)`` (in ``subject``) <br/> <br/> - ``Subject`` witnessed (saw/ experienced) a ``adj`` ``noun (key trend)``** | - Maybe use when you see loop word status. <br/> - While / whereas | Beef consumption in England rose sharply, while **France experienced a marginal fall throughout the surveyed period**. |
+| **``Categories`` recorded (displayed) the highest/lowest ``subject``** | | - US recorded the highest proportion of spending on education. <br/> - Education in US recorded the highest proportion of spending. |
+| **``Subject 1`` be (``strong/weak``) higher/lower than that in/on/at ``subject 2``** | - **Strong**: significantly, considerably, far, much. <br/> - **Weak**: slightly, a bit, a little. <br/> - That $\rightarrow$ several $\rightarrow$ **those** <br/> - ``Subject 1`` is the best $\rightarrow$ than the other countries (the remaining countries). | - The proportion of students attending online classes at center A was much higher than that at center B. <br/> - UK men spent more time exercising than **those** in the US. <br/> - UK and US recorded a far higher proportion of spending on education than **the other countries**. |
