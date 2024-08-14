@@ -1,6 +1,7 @@
 ---
 password: tuiyeucb
 ---
+# Word form table
 | Noun | Verb | Adjective | Adverb |
 | ----------- | ----------- | ----------- | ----------- |
 | density | | | densely |

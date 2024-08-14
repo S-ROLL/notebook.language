@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;">THEORETICAL</h1>
+# THEORETICAL
 ## Noun 🧒
 - Đếm được
     - Số ít ➡️ `` a/an + N ``.

@@ -1,5 +1,5 @@
-## <h1 style="text-align: center;">Keywords</h1>
-### Locating words
+# Keywords
+## Locating words
 - Geographical location ⛰️
 - Name of an academic 🧪
 - History period ⏲️
@@ -7,7 +7,7 @@
 - Date of a study / survey 📅
 - Species / An animal 🐶
 - Terminology 📘
-### Words with similar meanings (contextualized)
+## Words with similar meanings (contextualized)
 - [Synonyms (keyword table)](../synonyms/index.md).
 - [Part of speech (word form)](../wordform/wordformlist.md).
 

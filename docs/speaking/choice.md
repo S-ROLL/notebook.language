@@ -1,9 +1,6 @@
-## <h1 style="text-align: center;">Choice question</h1>
+# Choice question
 
-!!! info
-    [sample answers](sampleanswerchoice.md)
-
-### `` Do you like (prefer) A or B ? ``
+## `` Do you like (prefer) A or B ? ``
 - **1 of the 2 options**
     - I would probably 😕 (definitely 💯) go for (opt for) ``paraphrasing / the former / the latter``
     - I'm more inclined 😗 to ``V``
@@ -19,3 +16,5 @@
 !!! note
     - Comparision / contrast language.
     - Discuss both sides.
+
+<center>[sample answers](sampleanswerchoice.md){ .md-button .md-button--primary }</center>

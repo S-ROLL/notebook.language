@@ -17,7 +17,7 @@ A significant amount of knowledge on this website has been collected from [VÃµ Ä
     - [Writing](writing/index.md)
     - [Speaking](speaking/index.md)
     - [Reading](reading/index.md)
-    - [Listening](listening/listening.md)
+    - [Listening](listening/index.md)
 - [Synonyms (keyword table)](synonyms/index.md)
     - [Topic](synonyms/topicsynonyms.md)
 - [Part of speech](wordform/index.md)

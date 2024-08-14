@@ -3,7 +3,7 @@ hide:
   - toc
 password: tuiyeucb
 ---
-## Keyword table
+# Keyword table
 | Original | Synonyms | Contextualized |
 | :-----------: | ----------- | ----------- |
 | basic | fundamental <br/> significant <br/> radical |

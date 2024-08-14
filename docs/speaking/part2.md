@@ -1,6 +1,3 @@
-!!! info
-    [sample](sampledescribe.md)
-
 ## A job that you do not like to do in the future
 - child 👶 ➡️ childhood dream ➡️ harbor a dream of ``Ving`` ``   `` ➡️ ❓why❓
 - as I grow older 👨‍🦲 ➡️ change mindset ➡️ It's just dawned on me that ➡️ ❓reasons❓
@@ -18,3 +15,5 @@
 - complain bitterly 🤦‍♂️
 - lose one's cool ➡️ shout at / yell at 🔊
 - offensive language 😡
+
+<center>[sample](sampledescribe.md){ .md-button .md-button--primary }</center>

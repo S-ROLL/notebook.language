@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
 ---
-# <h1 style="text-align: center;">Practical sources</h1>
+# <center>Practical sources</center>
 
 ## [FULL TESTS - tuhocielts.dolenglish.vn](https://tuhocielts.dolenglish.vn/luyen-thi-ielts/free-ielts-online-test)
 This link provides access to free IELTS online tests, enabling learners to practice and prepare for the IELTS exam. It includes various sections such as Listening, Reading, Writing, and Speaking to offer a comprehensive practice experience.

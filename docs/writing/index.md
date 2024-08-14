@@ -1,5 +1,5 @@
-
-## <h1 style="text-align: center;">NOUN-PHRASES</h1>
+# WRITING
+## NOUN-PHRASES
 ### Clause
 ``S + V + (O)``
 - Verb:
@@ -12,7 +12,7 @@
 - **Post-modifier**:
     - ``N + Ving/V3ed`` $\rightarrow$ Reduced form of relative clause.
 
-## <h1 style="text-align: center;">PARAPHRASING</h1>
+## PARAPHRASING
 ### Synonyms
 - Condition:
     1. Part of speech

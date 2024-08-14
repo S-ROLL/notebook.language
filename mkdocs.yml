@@ -12,7 +12,10 @@ nav:
         - Overview: writing/task1/overview.md
         - Body: writing/task1/body.md
       - Task 2:
-        - Advantage & disadvantage: writing/task2/a_disa.md
+        - Ad & Disad structures:
+          - writing/task2/a&disa/index.md
+          - Ad phrase: writing/task2/a&disa/advantage.md
+          - Disad phrase: writing/task2/a&disa/disadvantage.md
     - SPEAKING:
       - speaking/index.md
       - Part 1:
@@ -26,6 +29,7 @@ nav:
       - Multiple choice: reading/multiple.md
       - Matching heading: reading/heading.md
     - LISTENING:
+      - listening/index.md
       - Alphabet: listening/alphabet.md
       - Numbers: listening/numbers.md
       - Completion: listening/completion.md
