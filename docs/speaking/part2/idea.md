@@ -1,12 +1,28 @@
-# Describe questions
-## A job that you do not like to do in the future
+---
+password: cbdeptrai
+---
+# Part 2 - Idea recommendation
+
+!!! info
+    Describe question.
+
+## Job
+
+!!! Abstract
+    Describe a job that you do not like to do in the future.
+
 - child 👶 ➡️ childhood dream ➡️ harbor a dream of ``Ving`` ``   `` ➡️ ❓why❓
 - as I grow older 👨‍🦲 ➡️ change mindset ➡️ It's just dawned on me that ➡️ ❓reasons❓
 - be not born to become `` noun`` 🙅‍♂️
 - have no knack for ``Ving`` ``   `` 💃
 - do not have (possess) what it takes to become `` noun`` 🙅‍♂️
 - be too ``adj (physically / mentally)`` demanding for me ``   `` 💥
-## An occasion when you heard someone complaining about something in a restaurant / store or other business places
+
+## Complaining
+
+!!! Abstract
+    Describe an occasion when you heard someone complaining about something in a restaurant / store or other business places.
+
 - witness a significant complaint 👀
 - show dissatisfaction 💢
 - make a complaint 💬
@@ -16,5 +32,3 @@
 - complain bitterly 🤦‍♂️
 - lose one's cool ➡️ shout at / yell at 🔊
 - offensive language 😡
-
-<center>[sample](sampledescribe.md){ .md-button .md-button--primary }</center>

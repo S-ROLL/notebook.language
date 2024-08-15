@@ -14,7 +14,7 @@
 - Early $\rightarrow$ past/historic/ston age/medieval/century/``V2/ed``
 - Future $\rightarrow$ upcoming/anticipations/long-term
 ### Noun
-- **Synonyms (contextualized):** $\rightarrow$ [Click here](../synonyms/index.md){ .md-button .md-button--primary }
+- **Synonyms/contextualized** $\rightarrow$ <font size="1">[Click here](../synonyms/index.md){.md-button}</font>
     
     !!! example
         - **change** $\rightarrow$ redesign, improve
@@ -37,6 +37,6 @@ $\rightarrow$ Only synonyms.
 !!! note
     No highlight if all **same type**.
 
-<center>**Classification tabular for newbie**<center/>
+<center>**CLASSIFICATION TABLE FOR NEWBIE**<center/>
 
 <center> [DOWNLOAD PDF](https://drive.google.com/file/d/1HaPC5L9xl3wfFG2uksrHDW7OiQYnl5dl/view?usp=share_link){ .md-button .md-button--primary } <center/>

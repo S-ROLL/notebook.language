@@ -9,7 +9,7 @@
 | **- One major benefit of ``Subject/Ving`` is the ``Noun/Noun-phrase`` (it offers) <br/> <br/> - One major benefit of ``Subject/Ving`` is that ``SVO``** | **- Using for general thing.** <br/> - **Above structure**$\rightarrow$ short description. <br/> - **Below structure**$\rightarrow$ detail description. <br/>  - ``Ving`` e.g. working from home. <br/> - major = significant = striking <br/> - ``it offers`` $\rightarrow$ they offer. | - One major benefit of online **learning** is the flexibility **it offers**. <br/> - One major benefit of online **classes** is the flexibility **they offer**. <br/> - **One major benefit** of online learning **is that** students can study at their own pace. |
 | **- One major benefit ``someone`` can reap from ``subject`` is the ``Noun/Noun-phrase`` <br/> <br/> - One major benefit ``someone`` can reap from ``subject`` is that ``SVO``** | **Using for specific one.** <br/> - **Above structure**$\rightarrow$ short description. <br/> - **Below structure**$\rightarrow$ detail description. | - **One major benefit** students **can reap from** online learning **is the** flexibility **it offers**. <br/> - **One major benefit** students **can reap from** online learning **is that** they can study at their own pace. |
 
-<center>[Common useful phrases](advantage.md){ .md-button .md-button--primary }</center>
+<center>[Common useful phrases](advantage.md){.md-button}</center>
 
 ## Disadvantage
 
@@ -19,4 +19,4 @@
 | **- ``Subject`` could lead to (result in) ``Noun/Noun-phrase`` <br/> <br/> - One major drawback of ``Subject`` is the ``Noun/Noun-phrase``** | Short description. | - Lack of exercise **could lead to** an sedentary lifestyle. <br/> - **One major drawback of** constructing industrial areas in the center **is the** noise pollution. |
 | **One major drawback of ``Subject`` is that ``SVO``** | Detail description.| **One major drawback of** constructing industrial areas in the center **is that** environment will be polluted. |
 
-<center>[Common useful phrases](disadvantage.md){ .md-button .md-button--primary }</center>
+<center>[Common useful phrases](disadvantage.md){.md-button}</center>

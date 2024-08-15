@@ -20,7 +20,7 @@
 | **``subject A`` in ``country B``** | ``demonym B`` + ``subject A`` | Children in Australia $\rightarrow$ Australian children |
 
 !!! Info
-    For another words $\rightarrow$ [Synonyms](../../synonyms/index.md)
+    For another words $\rightarrow$ <font size="1">[Synonyms](../../synonyms/index.md){.md-button}</font>
 
 ## Samples
 | ORIGINAL | CHANGED |
