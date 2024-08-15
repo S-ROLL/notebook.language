@@ -1,3 +1,4 @@
+# Liking/Disliking questions
 ## Idea development
 
 - **Like** $\rightarrow$ yes $\rightarrow$ particular type $\rightarrow$ reason (topic-related vocab + cohenrence) $\rightarrow$ feeling / frequency.

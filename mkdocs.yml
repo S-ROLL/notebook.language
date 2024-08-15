@@ -19,10 +19,10 @@ nav:
     - SPEAKING:
       - speaking/index.md
       - Part 1:
-        - Liking/Disliking question: speaking/liking.md
-        - Choice question: speaking/choice.md
-      - Part 2:
-        - Describe: speaking/part2.md
+        - Introduction: speaking/part1/introduction.md
+        - Liking/Disliking: speaking/part1/liking.md
+        - Choice: speaking/part1/choice.md
+      - Part 2: speaking/part2/describe.md
     - READING:
       - reading/index.md
       - Completion question: reading/completion.md

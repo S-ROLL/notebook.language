@@ -1,4 +1,4 @@
-# Choice question
+# Choice questions
 
 ## `` Do you like (prefer) A or B ? ``
 - **1 of the 2 options**
