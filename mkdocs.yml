@@ -32,8 +32,7 @@ nav:
       - Matching heading: reading/heading.md
     - LISTENING:
       - listening/index.md
-      - Alphabet: listening/alphabet.md
-      - Numbers: listening/numbers.md
+      - Alphabet & Num: listening/a&n.md
       - Completion: listening/completion.md
       - Multiple choice: listening/multiplechoice.md
   - Keyword table:
