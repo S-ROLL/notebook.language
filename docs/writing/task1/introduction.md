@@ -16,11 +16,20 @@
 ## Subject under survey
 | ORIGINAL | CHANGING TO | EXAMPLE |
 | ----------- | ----------- | ----------- |
-| **(data/figures)** | - the number of ``noun (countable) + Ving/3ed`` <br/> - the amount of ``noun (uncountable) + Ving/3ed`` <br/> - the proportion (percentage/rate) of ``noun + Ving/3ed``| - the amount of money invested <br/> - the amount of money earned <br/> - the proportion of people using the local library <br/> - the amount of gas emitted from 2 different private vehicles. |
+| **(data/figures)** | - the number of ``noun (countable) + Ving/3ed`` <br/> - the amount of ``noun (uncountable) + Ving/3ed`` <br/> - the proportion (percentage/rate) of ``noun + Ving/3ed`` <br/> - How much/many ``subject`` + ``be v3ed`` | - the amount of money invested <br/> - the amount of money earned <br/> - the proportion of people using the local library <br/> - the amount of gas emitted from 2 different private vehicles. <br/> - how much oil was produced |
 | **``subject A`` in ``country B``** | ``demonym B`` + ``subject A`` | Children in Australia $\rightarrow$ Australian children |
+| ``Noun A`` + ``noun B`` | The ``noun B`` + ``noun A`` | Water consumption $\rightarrow$ The consumption of water |
 
 !!! Info
     For another words $\rightarrow$ <font size="1">[Synonyms](../../synonyms/index.md){.md-button}</font>
+
+## Word describe
+- across
+- in terms of = about
+
+!!! example
+    - male and female **across** 3 different age groups
+    - leading mobile phone companies **in terms of** their global market share
 
 ## Samples
 | ORIGINAL | CHANGED |
