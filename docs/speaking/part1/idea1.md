@@ -11,7 +11,7 @@ password: cbdeptrai
         - Hometown
 
 ## Work and Study
-### Are you working or are you a student?
+### Are you working or are you a student? (*)
 - I'm currently attending ``uni``, which is a public/private university.
 - Undergraduate/senior/sophomore/junior at ``   `` university, ``*``
     - ``*``: which is one of the most top-notch universities ``   ``.
@@ -24,13 +24,13 @@ password: cbdeptrai
         - ``*``: the better part of ``x`` years/months.
 - ``Responsibility``.
 
-### What do you like about your work/major?
+### What do you like about your work/major? (*)
 - Dedicated/conscientious/supportive teachers, ``*``
     - ``*``: always try to explain the lessons **over and over again**.
     - ``*``: willing to give us a hand when we need help both inside and outside the school.
 - Feelings $\rightarrow$ I feel lucky to study with them.
 
-### What don’t you like about your work/major?
+### What don’t you like about your work/major? (*)
 - the exam-oriented curriculum
 - heavy workload
 - hectic schedule
@@ -81,14 +81,14 @@ password: cbdeptrai
     !!! warning
         Using present continuous
 
-### What do you enjoy most about your house? / What can you see from the window of your house?
+### What do you enjoy most about your house? / What can you see from the window of your house? (*)
 - The view from my bedroom window/balcony.
 - It **overlooks** the local park/river,...
 - Enjoy the beauty of nature.
 - Have a bit of fresh air.
 - Feelings $\rightarrow$ best way to unwind/relax.
 
-### Is there anything you would like to change about your house?
+### Is there anything you would like to change about your house? (*)
 - If given a chance to renovate it a bit, I would ``...``, because $\rightarrow$ cramped/small. If it were bigger, we would have ``   ``, that would be amazing!
 
 ### Which room do you like the most in your house? / Which room does your family spend most of the time in?
@@ -136,8 +136,8 @@ password: cbdeptrai
 - hit it off
 - sad to say, ``...``
 
-### What do you like abou your living area?
-### What dont you like about your living area?
+### What do you like abou your living area? (*)
+### What dont you like about your living area? (*)
 
 ## Hometown
 ### Where are you from?
@@ -148,8 +148,8 @@ password: cbdeptrai
 - In case you might not know / Just so you know
 - Feelings $\rightarrow$ Lucky/fortunate enought to be born here, the pace of life, not too fast, nor too slow.
 
-### What do you like about your hometown?
-### What dont you like about your hometown?
+### What do you like about your hometown? (*)
+### What dont you like about your hometown? (*)
 
 ### How has your hometown changed during the past few years?
 - ``city`` + ``*``
