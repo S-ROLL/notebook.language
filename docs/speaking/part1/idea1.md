@@ -30,6 +30,9 @@ password: cbdeptrai
     - ``*``: willing to give us a hand when we need help both inside and outside the school.
 - Feelings $\rightarrow$ I feel lucky to study with them.
 
+!!! example
+    There are several things that I really like about my major, but what I like most is the supportive teachers. They always try to explain the lessons over and over again, ensuring we understand the material. They are also willing to give us a hand when we need help both inside and outside the school. I feel lucky to study with such dedicated educators.
+
 ### What don’t you like about your work/major? (*)
 - the exam-oriented curriculum
 - heavy workload
@@ -88,6 +91,9 @@ password: cbdeptrai
 - Have a bit of fresh air.
 - Feelings $\rightarrow$ best way to unwind/relax.
 
+!!! example
+    There are several things that I enjoy the most about my house, but What I really enjoy most is the view from my bedroom window. It overlooks a beautiful local park, allowing me to enjoy the beauty of nature and breathe in some fresh air. It’s the best way to unwind and relax after a long day.
+
 ### Is there anything you would like to change about your house? (*)
 - If given a chance to renovate it a bit, I would ``...``, because $\rightarrow$ cramped/small. If it were bigger, we would have ``   ``, that would be amazing!
 
@@ -139,6 +145,9 @@ password: cbdeptrai
 ### What do you like abou your living area? (*)
 ### What dont you like about your living area? (*)
 
+!!! example
+    Honestly, based on my observation, it’s quite adorable. But that doesn’t mean there’s no room for improvement, right? The most striking issue is the traffic jam. I always feel burned out whenever I’m outside during rush hour. I wish it could be improved to make life easier for everyone living here.
+
 ## Hometown
 ### Where are you from?
 - I have been living here since I was born.
@@ -149,7 +158,10 @@ password: cbdeptrai
 - Feelings $\rightarrow$ Lucky/fortunate enought to be born here, the pace of life, not too fast, nor too slow.
 
 ### What do you like about your hometown? (*)
-### What dont you like about your hometown? (*)
+### What don't you like about your hometown? (*)
+
+!!! example
+    There are several things that I don't really enjoy about my hometown, but what really annoys me all the time is the low services of the facilities, like hospitals, schools, convinent stores,... They're often understaffed and not well taken care of. I really hope these services get a serious upgrade to better community.
 
 ### How has your hometown changed during the past few years?
 - ``city`` + ``*``
