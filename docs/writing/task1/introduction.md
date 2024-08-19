@@ -25,6 +25,7 @@
 
 ## Word describe
 - across
+- based on
 - in terms of = about
 
 !!! example
