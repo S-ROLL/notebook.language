@@ -24,6 +24,9 @@ password: cbdeptrai
         - ``*``: the better part of ``x`` years/months.
 - ``Responsibility``.
 
+### What is a typical day of your work/study? (*)
+### How do you go to school/work? (*)
+### How do you feel after a day at school/work? (*)
 ### What do you like about your work/major? (*)
 - Dedicated/conscientious/supportive teachers, ``*``
     - ``*``: always try to explain the lessons **over and over again**.
@@ -75,7 +78,7 @@ password: cbdeptrai
 ### Do course in school expect?
 
 ## Home/Accommodation
-### Do you live in a house or an apartment?
+### Do you live in a house or an apartment? (*)
 - terraced house / detached house.
 - two-storey house with a balcony on the second floor.
 - quite (not really) spacious, just **right** for me and my family.
@@ -94,6 +97,7 @@ password: cbdeptrai
 !!! example
     There are several things that I enjoy the most about my house, but What I really enjoy most is the view from my bedroom window. It overlooks a beautiful local park, allowing me to enjoy the beauty of nature and breathe in some fresh air. It’s the best way to unwind and relax after a long day.
 
+### What do you enjoy most about your house? (*)
 ### Is there anything you would like to change about your house? (*)
 - If given a chance to renovate it a bit, I would ``...``, because $\rightarrow$ cramped/small. If it were bigger, we would have ``   ``, that would be amazing!
 
@@ -104,7 +108,7 @@ password: cbdeptrai
 ### Are the transport facilities to your home very good?
 
 ## Living area
-### Where do you live? / Tell me about your living area
+### Where do you live? / Tell me about your living area (*)
 - I'm currently living/residing on the outskirts (in the suburbs of) ``city``, The scenery
     - greenery
     - green spaces
@@ -115,6 +119,22 @@ password: cbdeptrai
     - convenience
     - public facilities $\rightarrow$ ``listing``
     - withing walking distance from my neighborhood.
+
+### Do you know your neighbors well? (*)
+- hectic schedule
+- personality
+- get along well
+- get on well
+- hit it off
+- sad to say, ``...``
+
+### What do you like abou your living area? (*)
+### What dont you like about your living area? (*)
+
+!!! example
+    Honestly, based on my observation, it’s quite adorable. But that doesn’t mean there’s no room for improvement, right? The most striking issue is the traffic jam. I always feel burned out whenever I’m outside during rush hour. I wish it could be improved to make life easier for everyone living here.
+
+### Do you plan to live in your living area for a long time? (*)
 
 ### Is it a good place for families with children / to grow up?
 - **As I said earlier**
@@ -134,36 +154,22 @@ password: cbdeptrai
 - I don't see myself relocating somewhere else in the near future/anytime soon/in the coming years.
 - The idea of moving has never crossed my mind because job opportunities.
 
-### Do you know your neighbors well?
-- hectic schedule
-- personality
-- get along well
-- get on well
-- hit it off
-- sad to say, ``...``
-
-### What do you like abou your living area? (*)
-### What dont you like about your living area? (*)
-
-!!! example
-    Honestly, based on my observation, it’s quite adorable. But that doesn’t mean there’s no room for improvement, right? The most striking issue is the traffic jam. I always feel burned out whenever I’m outside during rush hour. I wish it could be improved to make life easier for everyone living here.
-
 ## Hometown
-### Where are you from?
+### Where are you from?/Can you tell me about your hometown? (*)
 - I have been living here since I was born.
 - I was born and raised here, in ``   `` city.
 - ``Location`` $\leftrightarrow$ ``test site`` $\rightarrow$ My place far from HCM city 200 kilometers in the southwest.
 - If you have been here long enough, you would definitely know ``city`` is renowned for ``   ``.
 - In case you might not know / Just so you know
 - Feelings $\rightarrow$ Lucky/fortunate enought to be born here, the pace of life, not too fast, nor too slow.
-
+### What is your hometown famous for? (*)
 ### What do you like about your hometown? (*)
 ### What don't you like about your hometown? (*)
 
 !!! example
     There are several things that I don't really enjoy about my hometown, but what really annoys me all the time is the low services of the facilities, like hospitals, schools, convinent stores,... They're often understaffed and not well taken care of. I really hope these services get a serious upgrade to better community.
 
-### How has your hometown changed during the past few years?
+### How has your hometown changed during the past few years? (*)
 - ``city`` + ``*``
     - has witnessed
     - seen significant changes
