@@ -24,9 +24,24 @@ password: cbdeptrai
         - ``*``: the better part of ``x`` years/months.
 - ``Responsibility``.
 
+!!! example
+    I'm currently a sophomore in maths field at SG university. I’ve been studying here for the good 2 years. While it’s been challenging, it’s also been rewarding. I feel so fortunate to be focused on a field I’m passionate about.
+
 ### What is a typical day of your work/study? (*)
+
+!!! example
+    My days are hectic with a heavy workload, it often leaving me exhausted ``ig'zɔ:stid``. I usually burn the midnight oil to keep up, which is draining. But as a morning person, I'm full of energy to getting things done early in the day. By evening, the peaceful vibe helps me feel unwind and relax.
+
 ### How do you go to school/work? (*)
+
+!!! example
+    There are a number of means of transportation, but the one I choose most often is the bus. I usually commute to school by bus because I care about the environment. It's perfect for a rainy day. However, that doesn't mean there is no room for comparison; taking the bus during rush hour can be really tiring, especially with the traffic jams.
+
 ### How do you feel after a day at school/work? (*)
+
+!!! example
+    After a day at school, I often feel burn out because of the heavy workload. My schedule is so hectic that I sometimes have to burn the midnight oil to keep it up. It’s exhausting, but at the same time, I feel so happy just knowing I’m getting through it.
+
 ### What do you like about your work/major? (*)
 - Dedicated/conscientious/supportive teachers, ``*``
     - ``*``: always try to explain the lessons **over and over again**.
@@ -42,6 +57,9 @@ password: cbdeptrai
 - hectic schedule
 - burn the midnight oil
 - pull an all nighter to
+
+!!! example
+    There are several things that I really like about my major, but it doesn't mean there is no room for comparison, right? The exam-oriented curriculum can be overwhelming, and the heavy workload often leads to a hectic schedule. I sometimes have to burn the midnight oil, which can be really exhausting. If I could, I'd work on building skills to get through this time more easily.
 
 ### Do you like working in the morning/evening?
 - Morning vibe/morning person/riser
