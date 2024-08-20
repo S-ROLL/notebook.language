@@ -105,6 +105,9 @@ password: cbdeptrai
     !!! warning
         Using present continuous
 
+!!! example
+    I'm currently living in a small house with my family in the heart of Ho Chi Minh City. We’re enjoying our two-storey house although it’s not very spacious, just right for us. But there are so many facilities, with hospitals, convenience stores, and more all within walking distance, It's incredibly `` in'kredəbli`` convenient.
+
 ### What do you enjoy most about your house? / What can you see from the window of your house? (*)
 - The view from my bedroom window/balcony.
 - It **overlooks** the local park/river,...
@@ -113,11 +116,13 @@ password: cbdeptrai
 - Feelings $\rightarrow$ best way to unwind/relax.
 
 !!! example
-    There are several things that I enjoy the most about my house, but What I really enjoy most is the view from my bedroom window. It overlooks a beautiful local park, allowing me to enjoy the beauty of nature and breathe in some fresh air. It’s the best way to unwind and relax after a long day.
+    There are several things that I enjoy the most about my house, but what I really enjoy most is the view from my bedroom window. It overlooks a beautiful local park, allowing me to enjoy the beauty of nature and breathe in some fresh air. It’s the best way to unwind and relax after a long day.
 
-### What do you enjoy most about your house? (*)
 ### Is there anything you would like to change about your house? (*)
 - If given a chance to renovate it a bit, I would ``...``, because $\rightarrow$ cramped/small. If it were bigger, we would have ``   ``, that would be amazing!
+
+!!! example
+    If given the chance to renovate I would definitely make the living room bigger since it's a bit small for our family. Expanding the space would make it more comfortable for everyone when we gather. Having that extra room would truly enhance our living experience.
 
 ### Which room do you like the most in your house? / Which room does your family spend most of the time in?
 - Living room,...
@@ -138,6 +143,9 @@ password: cbdeptrai
     - public facilities $\rightarrow$ ``listing``
     - withing walking distance from my neighborhood.
 
+!!! example
+    I'm currently living in the heart of Ho Chi Minh City, where everything is incredibly convenient. There are many facilities like hospitals and convenience stores are within walking distance, making my daily life much easier. Although it's a bustling area, I appreciate the material it offers.
+
 ### Do you know your neighbors well? (*)
 - hectic schedule
 - personality
@@ -146,13 +154,23 @@ password: cbdeptrai
 - hit it off
 - sad to say, ``...``
 
+!!! example
+    Although my schedules are hectic, thanks to my personality, I still manage to hit it off and get along well with my neighboors. I think my personality plays a big role in helping us get along. We may not see each other often, but when we do, we always have a good conversation.
+
 ### What do you like abou your living area? (*)
+
+!!! example
+    There are serveral things that I really like about my living area, but what I find most amazing is the high quality of life. The area is full of great food options. A lot of library nearby, perfect for whenever I need a quiet place to study. There are so many facilities like school, convenient store, restaurant... so incredibly convenient.
+
 ### What dont you like about your living area? (*)
 
 !!! example
     Honestly, based on my observation, it’s quite adorable. But that doesn’t mean there’s no room for improvement, right? The most striking issue is the traffic jam. I always feel burned out whenever I’m outside during rush hour. I wish it could be improved to make life easier for everyone living here.
 
 ### Do you plan to live in your living area for a long time? (*)
+
+!!! example
+    The idea of moving has never crossed my mind because the job opportunities and the quality of life here are exactly what I need. So I don’t see myself relocating ``ˌriː.ləʊˈkeɪ.tɪŋ`` anywhere else in the near future.  For now, I’m content with staying in this area for a long time.
 
 ### Is it a good place for families with children / to grow up?
 - **As I said earlier**
@@ -180,8 +198,21 @@ password: cbdeptrai
 - If you have been here long enough, you would definitely know ``city`` is renowned for ``   ``.
 - In case you might not know / Just so you know
 - Feelings $\rightarrow$ Lucky/fortunate enought to be born here, the pace of life, not too fast, nor too slow.
+
+!!! example
+    I was born and raised in Kien Giang, a province located about 200 kilometers southwest of Ho Chi Minh City. I’ve been living here since I was born, and I feel fortunate to call this place home. If you’ve been here long enough, you would definitely know that Kien Giang is renowned for its beautiful landscapes and amazing culture. The pace of life here is just right not too fast, nor too slow, making it a great place to live.
+
 ### What is your hometown famous for? (*)
+
+!!! example
+    My hometown is famous for Phu Quoc Island, which I’m incredibly proud of. Phu Quoc holds a special place in my heart with its peaceful atmosphere. Every time I visit, I feel a deep connection to the natural beauty and the peaceful vibe of the island. It isn't just a tourist destination for me; it’s the best place that brings me unwind and relax.
+
+
 ### What do you like about your hometown? (*)
+
+!!! example
+    There are several things that I like the most about my destination where I grew up. but what I the most appreciate is the peaceful atmosphere ``'ætməsfiə``. The sense of community makes it feel like a true home. Additionally, the natural beauty of life allow me to relax and unwind, making it a perfect place to escape the hustle and bustle of city life.
+
 ### What don't you like about your hometown? (*)
 
 !!! example
@@ -194,6 +225,9 @@ password: cbdeptrai
     - radical shifts
 - The most striking one is ``   ``/Based on my observation, ``   ``
     - There have been more skyscrapers (high-rise building/apartment complexes), give it a more modern look.
+
+!!! example
+    My place where I grew up has witnessed significant changes over the past few years. The most striking one is the rapid ``'ræpid`` development in infrastructures ``,infrə'strʌkt∫ə``, particularly the rise of more skyscrapers, giving the city a much more modern look.
 
 ### Would you like to live there in the future?
 ### Would you like to live in the countryside in the future? / Do you like living in the countryside?
