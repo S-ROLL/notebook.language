@@ -39,9 +39,7 @@ nav:
   - Keyword table:
     - synonyms/index.md
     - Topic classification: synonyms/topicsynonyms.md
-  - Part of speech:
-    - wordform/index.md
-    - Table: wordform/wordformlist.md
+  - Part of speech: wordform/wordformlist.md
   - Practical: practicalsources.md
 
 plugins:
