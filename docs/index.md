@@ -20,7 +20,7 @@ A significant amount of knowledge on this website has been collected from [VÃµ Ä
     - [Listening](listening/index.md)
 - [Synonyms (keyword table)](synonyms/index.md)
     - [Topic](synonyms/topicsynonyms.md)
-- [Part of speech](wordform/wordformlist.md)
+- [Part of speech](wordform/index.md)
 - [Practical](practicalsources.md)
 
 *Wishing you success and confidence on your IELTS journey!*

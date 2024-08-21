@@ -30,5 +30,4 @@ The same.
 - ``Linking verb`` + Adj
 - ``make / find / keep`` + Adj
 - ``leave + O`` + Adj
-
-<center>[Table](wordformlist.md){ .md-button .md-button--primary }<center/>
+<center>[Table](../wordform/index.md){ .md-button .md-button--primary }<center/>
