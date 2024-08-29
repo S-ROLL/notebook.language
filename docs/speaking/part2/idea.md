@@ -1,7 +1,7 @@
 ---
 password: cbdeptrai
 ---
-# Part 2 - Idea recommendation
+# Part 2
 
 !!! info
     Describe question.

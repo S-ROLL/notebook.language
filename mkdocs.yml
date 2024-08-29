@@ -20,12 +20,10 @@ nav:
     - SPEAKING:
       - speaking/index.md
       - Part 1:
-        - Phrases: speaking/part1/phrases.md
-        - Ideas: 
-          - Introduction: speaking/part1/idea1.md
-          - Topics: speaking/part1/idea2.md
-      - Part 2:
-        - Ideas: speaking/part2/idea.md
+        - speaking/part1/index.md
+        - Introduction: speaking/part1/idea1.md
+        - Topics: speaking/part1/idea2.md
+      - Part 2: speaking/part2/idea.md
     - READING:
       - reading/index.md
       - Completion question: reading/completion.md

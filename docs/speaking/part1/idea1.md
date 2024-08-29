@@ -1,7 +1,7 @@
 ---
 password: cbdeptrai
 ---
-# Part 1 - Idea recommendation - Introduction
+# Part 1 - Introduction
 
 !!! info
     - Only around **4 fixed topics**:

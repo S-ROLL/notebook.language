@@ -1,7 +1,7 @@
 ---
 password: cbdeptrai
 ---
-# Part 1 - Idea recommendation - Topics
+# Part 1 - Topics
 
 !!! info
     - Only around 2 type questions:
