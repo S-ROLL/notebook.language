@@ -10,6 +10,29 @@ password: cbdeptrai
         - Living area
         - Hometown
 
+## Phrases
+
+### University students
+- I am currently a freshman/sophomore/junior/senior + ``major`` at ``uni``
+- Feeling/feature $\rightarrow$ <font size="1">[Liking/Disliking](#likingdisliking-questions){.md-button}</font>
+
+!!! example
+    I'm currently a sophomore in supernatural power teacher education at Hero Academy and you know, I love to share knowledge with other people.
+
+### Working
+- I am currently working as a/an ``job`` + ``company``
+- How long
+- Feeling $\rightarrow$ <font size="1">[Liking/Disliking](#likingdisliking-questions){.md-button}</font>
+
+!!! tip
+    - How long:
+        - have been doing this job for ``x`` years
+        - for the better part of ``x`` years + ``FEELING``
+        - for the good ``x`` years + ``FEELING``
+
+!!! example
+    I'm currently working as a software engineer in tech giant. For the good 2 years, I feel that I have a strong liking for technology and It pay me very well.
+
 ## Work and Study
 ### Are you working or are you a student? (*)
 - I'm currently attending ``uni``, which is a public/private university.
