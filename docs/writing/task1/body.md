@@ -16,7 +16,18 @@
 | **from ``figure x`` to ``figure y``** | ``noun/verb`` + ``from x to y`` | | - Over the next 20 years, there was a significant drop **from 30 million cars to merely 10 million cars** in 1990. <br/> - Over the next 20 years, car sales declined sharply **from 20 million cars to merely 5 million cars** in 1995. |
 | **by / of ``figure x`` to ``figure y``** | - ``verb`` + **by** <br/> - ``noun`` + **of** | - Apply for interval value. <br/> - **by/of** + approximately (roughly) ``x`` to (only/merely) ``y`` | - Over the next 10 yeas, car sales declined sharply **by roughly 15 million cars to merely 5 million cars** in 1995. <br/> - Over the next 10 years, there was a significant drop **of roughly 15 million cars to merely 5 million cars** in 1995. |
 
+!!! note
+    - NUMBER-FOLD (THREEFOLD / TENFOLD / FIVEFOLD)
+        - E.g. increased threefold
+    - Double / triple / quadruple
+
 ## Structure reducing
 | Original | Changing to | Note | Example |
 | ----------- | ----------- | ----------- | ----------- |
 | ``Subject`` ``Verb_1`` **and** ``Verb_2`` | ``Subject`` ``Verb_1``**,** ``Verb_2``**-ing** | V1 and V2 is the same subject | - In 1980, car sales in UK started at 10M cars, and then **this figure rose sharply and peaked** at 20M cars in 1985. <br/> -> In 1980, car sales in UK started at 10M cars, and then **this figure rose sharply, peaking** at 20M cars in 1985. |
+|| `SVO`, and then this figure + `key trend` ||IN 1990, THE PROPORTION OF I USERS EXPERIENCED A MARGINAL DECLINE TO 27.8%, **and then this figure** LEVELED OFF UNTIL THE END OF THE PERIOD. |
+|| `SVO` + `year`, after which the figure (X) + `key trend` ||THE PROPORTION OF I USERS EXPERIENCED A MARGINAL DECLINE TO 27.8% IN 1990, **after which this figure** LEVELED OFF UNTIL THE END OF THE PERIOD.|
+|| `SVO` (data), which + `key trend` ||IN 1990, THE PROPORTION OF I USERS EXPERIENCED A MARGINAL DECLINE TO 27.8%, **which** LEVELED OFF UNTIL THE END OF THE PERIOD.|
+
+!!! note
+    - FOLLOWED BY `...` to `...`
