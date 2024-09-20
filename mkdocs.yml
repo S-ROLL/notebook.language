@@ -23,7 +23,9 @@ nav:
         - speaking/part1/index.md
         - Introduction: speaking/part1/idea1.md
         - Topics: speaking/part1/idea2.md
-      - Part 2: speaking/part2/idea.md
+      - Part 2:
+        - speaking/part2/index.md
+        - Topics: speaking/part2/topic.md
     - READING:
       - reading/index.md
       - Completion question: reading/completion.md

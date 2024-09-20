@@ -1,11 +1,4 @@
----
-password: cbdeptrai
----
-# Part 2
-
-!!! info
-    Describe question.
-
+# Topic Part 2
 ## Job
 
 !!! Abstract
