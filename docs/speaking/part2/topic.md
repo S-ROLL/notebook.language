@@ -31,6 +31,11 @@
 !!! Abstract
     Describe an online video where you learned something new
 
+The lead-in introduces the topic by briefly mentioning how I watched a cooking video for a family party, while the background information provides details about why I chose to watch the video and what made it relevant to the occasion.
+
+- Lead-in: a cooking video for a family party.
+- Background information: why I chose to watch the video and what made it relevant to the occasion.
+
 When it comes to learning from online videos, the first one that comes to my mind is a cooking tutorial, specifically on how to make a simple steak. I watched this video a few months ago on YouTube for my family party.
 
 Speaking of cooking steak, this video was the first off the top of my head because I wanted to impress my family with a perfectly cooked meal. I still remember colorfully that I needed something easy to follow, yet tasty enough to serve at the party. So, I found this video, which broke down step-by-step in a very clear and friendly way.
