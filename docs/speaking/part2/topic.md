@@ -33,8 +33,8 @@
 
 When it comes to learning from online videos, the first one that comes to my mind is a cooking tutorial, specifically on how to make a simple steak. I watched this video a few months ago on YouTube for my family party.
 
-Speaking of cooking steak, this video was the first off the top of my head because I wanted to impress my family with a perfectly cooked meal. I still remember colorfully that I needed something easy to follow, yet tasty enough to serve at the party. So, I found this video, which broke down the step-by-step in a very clear and friendly way.
+Speaking of cooking steak, this video was the first off the top of my head because I wanted to impress my family with a perfectly cooked meal. I still remember colorfully that I needed something easy to follow, yet tasty enough to serve at the party. So, I found this video, which broke down step-by-step in a very clear and friendly way.
 
-What sets this video apart is how the chef Gordon Ramsay shown the key techniques, like getting the perfect sear, timing the cooking process, and properly seasoning the steak. It also included tips on how to rest the meat after cooking, which I hadn’t think about before.
+What sets this video apart is how the chef Gordon Ramsay showed the key techniques, like getting the perfect sear, timing the cooking process, and properly seasoning the steak. It also included tips on how to rest the meat after cooking, which I hadn’t thought about before.
 
 After following the video, I learned how to cook a medium rare and juicy steak that was a big hit with my family. It boosted my confidence in preparing meals for gatherings and taught me the importance of paying attention to small details in cooking.
