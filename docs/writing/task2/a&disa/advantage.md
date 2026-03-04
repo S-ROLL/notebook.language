@@ -1,6 +1,3 @@
----
-password: tuiyeucb
----
 # Advantage phrases
 
 | STT | PHRASE | MEANING | NOTE |

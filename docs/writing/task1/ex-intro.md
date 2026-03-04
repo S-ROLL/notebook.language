@@ -1,6 +1,3 @@
----
-password: cbdeptrai
----
 # Introduction
 ![alt text](1.png)
 The given bar chart illustrates how many male and female british across 6 different groups in the home duties were divided.

@@ -1,8 +1,5 @@
----
 hide:
   - toc
-password: tuiyeucb
----
 # Keyword table
 | Original | Synonyms | Contextualized |
 | :-----------: | ----------- | ----------- |

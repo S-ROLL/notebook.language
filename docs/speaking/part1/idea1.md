@@ -1,6 +1,3 @@
----
-password: cbdeptrai
----
 # Part 1 - Introduction
 
 !!! info

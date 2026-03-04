@@ -1,6 +1,3 @@
-<!-- ---
-password: cbdeptrai
---- -->
 # Part 2
 
 !!! info

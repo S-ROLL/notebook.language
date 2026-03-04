@@ -1,6 +1,3 @@
----
-password: tuiyeucb
----
 # Topic classification
 ## Actions and Processes
 - **Use:** consume
